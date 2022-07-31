@@ -1,0 +1,55 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AlleJo01,Jonathan Allen,WAS,NFC,NFC East,DT,def_line,93,5,Alabama,SEC,17
+BateJo00,John Bates,WAS,NFC,NFC East,TE,off_skill,87,1,Boise St.,Mountain West,8
+BostJo00,Jonathan Bostic,WAS,NFC,NFC East,LILB,def_lbs,53,9,Florida,SEC,4
+BrowDy00,Dyami Brown,WAS,NFC,NFC East,WR,off_skill,2,1,North Carolina,ACC,6
+CartDe02,DeAndre Carter,WAS,NFC,NFC East,WR,off_skill,1,4,Sacramento St.,FCS,6
+CharSa00,Saahdiq Charles,WAS,NFC,NFC East,OL,off_line,77,2,LSU,SEC,4
+CollLa00,Landon Collins,WAS,NFC,NFC East,SS,def_backs,26,7,Alabama,SEC,13
+CosmSa00,Samuel Cosmi,WAS,NFC,NFC East,OL,off_line,76,1,Texas,Big 12,9
+CurlKa00,Kamren Curl,WAS,NFC,NFC East,S,def_backs,31,2,Arkansas,SEC,14
+DaviJa11,Jamin Davis,WAS,NFC,NFC East,LB,def_lbs,52,1,Kentucky,SEC,8
+FitzRy00,Ryan Fitzpatrick,WAS,NFC,NFC East,QB,off_skill,14,17,Harvard,FCS,1
+FlowEr00,Ereck Flowers,WAS,NFC,NFC East,OT,off_line,79,7,Miami (FL),ACC,16
+FullKe00,Kendall Fuller,WAS,NFC,NFC East,CB,def_backs,29,6,Virginia Tech,ACC,16
+GibsAn00,Antonio Gibson,WAS,NFC,NFC East,RB,off_skill,24,2,Memphis,American,14
+GilbGa01,Garrett Gilbert,WAS,NFC,NFC East,QB,off_skill,19,8,SMU,American,1
+HeinTa00,Taylor Heinicke,WAS,NFC,NFC East,QB,off_skill,4,5,Old Dominion,C-USA,15
+HemiTe00,Temarrick Hemingway,WAS,NFC,NFC East,TE,off_skill,88,6,South Carolina St.,FCS,1
+HolcCo00,Cole Holcomb,WAS,NFC,NFC East,LB,def_lbs,55,3,North Carolina,ACC,16
+HudsKh00,Khaleke Hudson,WAS,NFC,NFC East,LB,def_lbs,47,2,Michigan,Big Ten,1
+HumpAd00,Adam Humphries,WAS,NFC,NFC East,WR,off_skill,13,7,Clemson,ACC,11
+IoanMa01,Matthew Ioannidis,WAS,NFC,NFC East,DT,def_line,98,6,Temple,American,6
+IsmaKe00,Keith Ismael,WAS,NFC,NFC East,OL,off_line,60,2,San Diego St.,Mountain West,5
+JackWi02,William Jackson III,WAS,NFC,NFC East,CB,def_backs,23,5,Houston,American,12
+JohnDa09,Danny Johnson,WAS,NFC,NFC East,CB,def_backs,36,4,Southern,FCS,1
+LarsTy00,Tyler Larsen,WAS,NFC,NFC East,C,off_line,69,6,Utah St.,Mountain West,3
+LenoCh00,Charles Leno Jr.,WAS,NFC,NFC East,LT,NA,72,8,Boise St.,Mountain West,17
+LucaCo01,Cornelius Lucas,WAS,NFC,NFC East,OT,off_line,78,8,Kansas St.,Big 12,7
+MayoDa00,David Mayo,WAS,NFC,NFC East,ILB,def_lbs,51,7,Texas St.,Sun Belt,4
+McCaBo01,Bobby McCain,WAS,NFC,NFC East,CB,def_backs,20,7,Memphis,American,16
+McKiJ.00,J.D. McKissic,WAS,NFC,NFC East,WR,off_skill,41,6,Arkansas St.,Sun Belt,3
+McLaTe00,Terry McLaurin,WAS,NFC,NFC East,WR,off_skill,17,3,Ohio St.,Big Ten,17
+MilnDa00,Dax Milne,WAS,NFC,NFC East,WR,off_skill,15,1,BYU,Independent,1
+PattJa01,Jaret Patterson,WAS,NFC,NFC East,RB,off_skill,32,1,Buffalo,MAC,1
+PaynDa00,Daron Payne,WAS,NFC,NFC East,DT,def_line,94,4,Alabama,SEC,17
+ReavJe00,Jeremy Reaves,WAS,NFC,NFC East,FS,def_backs,39,4,South Alabama,Sun Belt,2
+ReyeSa00,Sammis Reyes,WAS,NFC,NFC East,TE,off_skill,80,1,Loyola (LA),"NAIA",1
+RobeDa00,Darryl Roberts,WAS,NFC,NFC East,CB,def_backs,34,6,Marshall,C-USA,3
+RotiBu00,Bunmi Rotimi,WAS,NFC,NFC East,DE,def_line,57,1,Old Dominion,C-USA,1
+RoulCh00,Chase Roullier,WAS,NFC,NFC East,C,off_line,73,5,Wyoming,Mountain West,8
+SamuCu00,Curtis Samuel,WAS,NFC,NFC East,WR,off_skill,10,5,Ohio St.,Big Ten,1
+ScheBr00,Brandon Scherff,WAS,NFC,NFC East,G,off_line,75,7,Iowa,Big Ten,11
+SchwWe00,Wes Schweitzer,WAS,NFC,NFC East,OT,off_line,71,5,San Jose St.,Mountain West,5
+SealRi00,Ricky Seals-Jones,WAS,NFC,NFC East,TE,off_skill,83,5,Texas A&M,SEC,6
+SimsCa00,Cam Sims,WAS,NFC,NFC East,WR,off_skill,11,4,Alabama,SEC,3
+SlyeJo00,Joey Slye,WAS,NFC,NFC East,K,spec_teams,3,3,Virginia Tech,ACC,0
+SmitJa08,James Smith-Williams,WAS,NFC,NFC East,DL,def_line,96,2,North Carolina St.,ACC,6
+StJuBe00,Benjamin St-Juste,WAS,NFC,NFC East,DB,def_backs,25,1,Minnesota,Big Ten,3
+SweaMo00,Montez Sweat,WAS,NFC,NFC East,EDGE,def_line,90,3,Mississippi St.,SEC,10
+ThomLo00,Logan Thomas,WAS,NFC,NFC East,TE,off_skill,82,8,Virginia Tech,ACC,6
+ToneSh00,Shaka Toney,WAS,NFC,NFC East,DE,def_line,58,1,Penn St.,Big Ten,1
+ToohCa00,Casey Toohill,WAS,NFC,NFC East,LB,def_lbs,95,2,Stanford,Pac-12,6
+WayxTr00,Tress Way,WAS,NFC,NFC East,P,spec_teams,5,8,Oklahoma,Big 12,0
+WiseDa01,Daniel Wise,WAS,NFC,NFC East,DL,def_line,92,1,Kansas,Big 12,1
+YounCh04,Chase Young,WAS,NFC,NFC East,DL,def_line,99,2,Ohio St.,Big Ten,9

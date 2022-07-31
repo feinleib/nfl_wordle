@@ -1,0 +1,46 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BullJo00,Jonathan Bullard,ATL,NFC,NFC South,DE,def_line,99,6,Florida,SEC,4
+CopeBr00,Brandon Copeland,ATL,NFC,NFC South,LB,def_lbs,51,9,Pennsylvania,FCS,3
+DaviMa01,Marlon Davidson,ATL,NFC,NFC South,DL,def_line,90,2,Auburn,SEC,1
+DaviMi01,Mike Davis,ATL,NFC,NFC South,RB,off_skill,28,7,South Carolina,SEC,8
+DaviTy01,Tyeler Davison,ATL,NFC,NFC South,DT,def_line,96,7,Fresno St.,Mountain West,11
+FowlDa00,Dante Fowler,ATL,NFC,NFC South,OLB,def_lbs,56,6,Florida,SEC,6
+GageRu00,Russell Gage,ATL,NFC,NFC South,WR,off_skill,14,4,LSU,SEC,9
+GossCo00,Colby Gossett,ATL,NFC,NFC South,G,off_line,66,4,Appalachian St.,Sun Belt,1
+GrahTa00,Ta'Quon Graham,ATL,NFC,NFC South,DT,def_line,95,1,Texas,Big 12,5
+GreeT.00,T.J. Green,ATL,NFC,NFC South,FS,def_backs,39,6,Clemson,ACC,1
+HallDa03,Darren Hall,ATL,NFC,NFC South,CB,def_backs,34,1,San Diego St.,Mountain West,1
+HarmDu00,Duron Harmon,ATL,NFC,NFC South,FS,def_backs,21,9,Rutgers,Big Ten,17
+HarrEr00,Erik Harris,ATL,NFC,NFC South,DB,def_backs,23,6,California (PA),D2,12
+HawkJa00,Jaylinn Hawkins,ATL,NFC,NFC South,S,def_backs,32,2,California,Pac-12,4
+HennMa00,Matt Hennessy,ATL,NFC,NFC South,OL,off_line,61,2,Temple,American,17
+HessPa00,Parker Hesse,ATL,NFC,NFC South,TE,off_skill,46,1,Iowa,Big Ten,1
+HursHa00,Hayden Hurst,ATL,NFC,NFC South,TE,off_skill,81,4,South Carolina,SEC,5
+JarrGr00,Grady Jarrett,ATL,NFC,NFC South,DT,def_line,97,7,Clemson,ACC,17
+JoneDe01,Deion Jones,ATL,NFC,NFC South,OLB,def_lbs,45,6,LSU,SEC,16
+KooxYo00,Younghoe Koo,ATL,NFC,NFC South,K,spec_teams,7,5,Georgia Southern,Sun Belt,0
+LindCh00,Chris Lindstrom,ATL,NFC,NFC South,OL,off_line,63,3,Boston Col.,ACC,17
+MattJa00,Jake Matthews,ATL,NFC,NFC South,OT,off_line,70,8,Texas A&M,SEC,17
+MayfJa00,Jalen Mayfield,ATL,NFC,NFC South,OL,off_line,77,1,Michigan,Big Ten,16
+McGaKa00,Kaleb McGary,ATL,NFC,NFC South,OL,off_line,76,3,Washington,Pac-12,16
+MeanSt00,Steven Means,ATL,NFC,NFC South,DE,def_line,55,9,Buffalo,MAC,14
+MoreFa00,Fabian Moreau,ATL,NFC,NFC South,CB,def_backs,22,5,UCLA,Pac-12,16
+MorsTh00,Thomas Morstead,ATL,NFC,NFC South,P,spec_teams,19,13,SMU,American,0
+OgunAd01,Adetokunbo Ogundeji,ATL,NFC,NFC South,OLB,def_lbs,92,1,Notre Dame,Independent,11
+OlivIs00,Isaiah Oliver,ATL,NFC,NFC South,CB,def_backs,26,4,Colorado,Pac-12,3
+OluoFo00,Foyesade Oluokun,ATL,NFC,NFC South,LB,def_lbs,54,4,Yale,FCS,17
+PattCo00,Cordarrelle Patterson,ATL,NFC,NFC South,WR,off_skill,84,9,Tennessee,SEC,13
+PittKy00,Kyle Pitts,ATL,NFC,NFC South,TE,off_skill,8,1,Florida,SEC,15
+RidlCa00,Calvin Ridley,ATL,NFC,NFC South,WR,off_skill,18,4,Alabama,SEC,5
+RushAn00,Anthony Rush,ATL,NFC,NFC South,NT,def_line,71,3,Ala-Birmingham,C-USA,6
+RyanMa00,Matt Ryan,ATL,NFC,NFC South,QB,off_skill,2,14,Boston Col.,ACC,17
+SharTa00,Tajae Sharpe,ATL,NFC,NFC South,WR,off_skill,4,6,Massachusetts,Independent,7
+SmitKe03,Keith Smith,ATL,NFC,NFC South,LB,def_lbs,40,8,San Jose St.,Mountain West,8
+SmitLe00,Lee Smith,ATL,NFC,NFC South,TE,off_skill,85,11,Marshall,C-USA,6
+SpriJa00,Jason Spriggs,ATL,NFC,NFC South,OT,off_line,69,6,Indiana,Big Ten,1
+TerrAJ00,AJ Terrell,ATL,NFC,NFC South,CB,def_backs,24,2,Clemson,ACC,16
+WalkMy00,Mykal Walker,ATL,NFC,NFC South,LB,def_lbs,3,2,Fresno St.,Mountain West,2
+WillAv02,Avery Williams,ATL,NFC,NFC South,OLB,def_lbs,35,1,Boise St.,Mountain West,1
+WillSh02,Shawn Williams,ATL,NFC,NFC South,SS,def_backs,36,9,Georgia,SEC,2
+WillCh07,Chris Williamson,ATL,NFC,NFC South,CB,def_backs,29,1,Minnesota,Big Ten,1
+ZaccOl01,Olamide Zaccheaus,ATL,NFC,NFC South,WR,off_skill,17,3,Virginia,ACC,8

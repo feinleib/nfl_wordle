@@ -1,0 +1,50 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AbduAm00,Ameer Abdullah,CAR,NFC,NFC South,RB,off_skill,20,7,Nebraska,Big Ten,1
+AndeRo04,Robby Anderson,CAR,NFC,NFC South,WR,off_skill,11,6,Temple,American,16
+BouyA.00,A.J. Bouye,CAR,NFC,NFC South,CB,def_backs,24,9,Central Florida,American,7
+BrowDe05,Derrick Brown,CAR,NFC,NFC South,DL,def_line,95,2,Auburn,SEC,14
+BurnBr00,Brian Burns,CAR,NFC,NFC South,EDGE,def_line,53,3,Florida St.,ACC,16
+BurrJu00,Juston Burris,CAR,NFC,NFC South,CB,def_backs,31,6,North Carolina St.,ACC,8
+CartJe00,Jermaine Carter Jr.,CAR,NFC,NFC South,LB,def_lbs,4,4,Maryland,Big Ten,17
+ChanSe00,Sean Chandler,CAR,NFC,NFC South,FS,def_backs,34,4,Temple,American,7
+ChinJe00,Jeremy Chinn,CAR,NFC,NFC South,S,def_backs,21,2,Southern Illinois,FCS,16
+ChriBr00,Brady Christensen,CAR,NFC,NFC South,T,off_line,70,1,BYU,Independent,6
+DaleDe00,Dennis Daley,CAR,NFC,NFC South,OL,off_line,65,3,South Carolina,SEC,9
+DarnSa00,Sam Darnold,CAR,NFC,NFC South,QB,off_skill,14,4,USC,Pac-12,11
+EdwaLa01,Lac Edwards,CAR,NFC,NFC South,P,spec_teams,10,6,Sam Houston St.,FCS,0
+ElflPa00,Pat Elflein,CAR,NFC,NFC South,C,off_line,60,5,Ohio St.,Big Ten,9
+ErviCa00,Cameron Erving,CAR,NFC,NFC South,OT,off_line,75,7,Florida St.,ACC,9
+FoxxMo00,Morgan Fox,CAR,NFC,NFC South,DL,def_line,91,6,Colorado State-Pueblo,D2,9
+GilmSt00,Stephon Gilmore,CAR,NFC,NFC South,CB,def_backs,9,10,South Carolina,SEC,3
+GonzZa00,Zane Gonzalez,CAR,NFC,NFC South,K,spec_teams,5,5,Arizona St.,Pac-12,0
+GrosYe00,Yetur Gross-Matos,CAR,NFC,NFC South,DL,def_line,97,2,Penn St.,Big Ten,2
+HartMy00,Myles Hartsfield,CAR,NFC,NFC South,DB,def_backs,38,2,Mississippi,SEC,9
+HendCJ00,C.J. Henderson,CAR,NFC,NFC South,CB,def_backs,15,2,Florida,SEC,5
+HornJa00,Jaycee Horn,CAR,NFC,NFC South,CB,def_backs,8,1,South Carolina,SEC,3
+HubbCh01,Chuba Hubbard,CAR,NFC,NFC South,RB,off_skill,30,1,Oklahoma St.,Big 12,10
+JackDo02,Donte Jackson,CAR,NFC,NFC South,CB,def_backs,26,4,LSU,SEC,12
+JoneDa04,DaQuan Jones,CAR,NFC,NFC South,DT,def_line,90,8,Penn St.,Big Ten,17
+JordMi01,Michael Jordan,CAR,NFC,NFC South,OL,off_line,73,3,Ohio St.,Big Ten,10
+LuvuFr00,Frankie Luvu,CAR,NFC,NFC South,LB,def_lbs,49,4,Washington St.,Pac-12,4
+MarsTe00,Terrace Marshall Jr.,CAR,NFC,NFC South,WR,off_skill,88,1,LSU,SEC,3
+MartKa01,Kamal Martin,CAR,NFC,NFC South,LB,def_lbs,47,2,Minnesota,Big Ten,1
+McCaCh01,Christian McCaffrey,CAR,NFC,NFC South,RB,off_skill,22,5,Stanford,Pac-12,7
+MelvRa00,Rashaan Melvin,CAR,NFC,NFC South,CB,def_backs,29,9,Northern Illinois,MAC,2
+MillJo04,John Miller,CAR,NFC,NFC South,OG,off_line,67,7,Louisville,ACC,10
+MoorD.00,D.J. Moore,CAR,NFC,NFC South,WR,off_skill,2,4,Maryland,Big Ten,17
+MotoTa00,Taylor Moton,CAR,NFC,NFC South,OT,off_line,72,5,Western Michigan,MAC,17
+NewtCa00,Cam Newton,CAR,NFC,NFC South,QB,off_skill,1,11,Auburn,SEC,5
+ParaMa00,Matt Paradis,CAR,NFC,NFC South,C,off_line,61,8,Boise St.,Mountain West,9
+ReddHa00,Haason Reddick,CAR,NFC,NFC South,OLB,def_lbs,43,5,Temple,American,16
+RiccGi00,Giovanni Ricci,CAR,NFC,NFC South,TE,off_skill,45,1,Western Michigan,MAC,1
+RobiKe02,Kenny Robinson Jr.,CAR,NFC,NFC South,S,def_backs,27,2,West Virginia,Big 12,1
+RoyxBr00,Bravvion Roy,CAR,NFC,NFC South,DT,def_line,93,2,Baylor,Big 12,2
+ScotTr01,Trenton Scott,CAR,NFC,NFC South,T,off_line,78,4,Grambling St.,FCS,5
+TaylKe03,Keith Taylor,CAR,NFC,NFC South,CB,def_backs,28,1,Washington,Pac-12,3
+TeckSa00,Sam Tecklenburg,CAR,NFC,NFC South,C,off_line,68,2,Baylor,Big 12,1
+ThomIa00,Ian Thomas,CAR,NFC,NFC South,TE,off_skill,80,4,Indiana,Big Ten,13
+ThomCo03,Colin Thompson,CAR,NFC,NFC South,TE,off_skill,86,2,Florida,SEC,2
+ThomSh01,Shaq Thompson,CAR,NFC,NFC South,OLB,def_lbs,54,7,Washington,Pac-12,13
+TremTo00,Tommy Tremble,CAR,NFC,NFC South,TE,off_skill,82,1,Notre Dame,Independent,11
+WalkPh00,P.J. Walker,CAR,NFC,NFC South,QB,off_skill,6,4,Temple,American,1
+ZylsBr00,Brandon Zylstra,CAR,NFC,NFC South,WR,off_skill,16,4,Concordia-Moorhead (MN),D3,3

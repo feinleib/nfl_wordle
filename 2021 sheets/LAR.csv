@@ -1,0 +1,42 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AlleBr02,Brian Allen,LAR,NFC,NFC West,C,off_line,55,4,Michigan St.,Big Ten,16
+BeckOd00,Odell Beckham Jr.,LAR,NFC,NFC West,WR,off_skill,3,8,LSU,SEC,7
+BlanKe01,Kendall Blanton,LAR,NFC,NFC West,TE,off_skill,86,3,Missouri,SEC,2
+BurgTe00,Terrell Burgess,LAR,NFC,NFC West,S,def_backs,26,2,Utah,Pac-12,2
+CorbAu00,Austin Corbett,LAR,NFC,NFC West,C,off_line,63,4,Nevada,Mountain West,17
+DeayDo01,Donte Deayon,LAR,NFC,NFC West,DB,def_backs,21,5,Boise St.,Mountain West,1
+DonaAa00,Aaron Donald,LAR,NFC,NFC West,DT,def_line,99,8,Pittsburgh,ACC,17
+EdwaDa01,David Edwards,LAR,NFC,NFC West,OL,off_line,73,3,Wisconsin,Big Ten,17
+EvanBo00,Bobby Evans,LAR,NFC,NFC West,OL,off_line,71,3,Oklahoma,Big 12,1
+FloyLe00,Leonard Floyd,LAR,NFC,NFC West,OLB,def_lbs,54,6,Georgia,SEC,17
+FullJo01,Jordan Fuller,LAR,NFC,NFC West,S,def_backs,4,2,Ohio St.,Big Ten,16
+GainGr00,Greg Gaines,LAR,NFC,NFC West,DL,def_line,91,3,Washington,Pac-12,13
+GayxMa00,Matt Gay,LAR,NFC,NFC West,K,spec_teams,8,3,Utah,Pac-12,0
+HaveRo00,Rob Havenstein,LAR,NFC,NFC West,OT,off_line,79,7,Wisconsin,Big Ten,15
+HekkJo00,Johnny Hekker,LAR,NFC,NFC West,P,spec_teams,6,10,Oregon St.,Pac-12,0
+HendDa00,Darrell Henderson,LAR,NFC,NFC West,RB,off_skill,27,3,Memphis,American,10
+HigbTy00,Tyler Higbee,LAR,NFC,NFC West,TE,off_skill,89,6,Western Kentucky,C-USA,15
+HoecMi00,Michael Hoecht,LAR,NFC,NFC West,DT,def_line,96,1,Brown,FCS,3
+HollJu00,Justin Hollins,LAR,NFC,NFC West,EDGE,def_line,58,3,Oregon,Pac-12,2
+HowaTr00,Travin Howard,LAR,NFC,NFC West,OLB,def_lbs,32,4,Ohio St.,Big Ten,2
+JeffVa00,Van Jefferson,LAR,NFC,NFC West,WR,off_skill,12,2,Florida,SEC,17
+JoneEr01,Ernest Jones,LAR,NFC,NFC West,LB,def_lbs,50,1,South Carolina,SEC,7
+JoseSe00,Sebastian Joseph-Day,LAR,NFC,NFC West,DT,def_line,69,4,Rutgers,Big Ten,7
+KuppCo00,Cooper Kupp,LAR,NFC,NFC West,WR,off_skill,10,5,East. Washington,FCS,17
+LewiTe00,Terrell Lewis,LAR,NFC,NFC West,LB,def_lbs,52,2,Alabama,SEC,4
+LongDa02,David Long,LAR,NFC,NFC West,CB,def_backs,22,3,Michigan,Big Ten,5
+MichSo00,Sony Michel,LAR,NFC,NFC West,RB,off_skill,25,4,Georgia,SEC,7
+MillVo00,Von Miller,LAR,NFC,NFC West,OLB,def_lbs,40,11,Texas A&M,SEC,8
+NoteJo00,Joseph Noteboom,LAR,NFC,NFC West,OT,off_line,70,4,TCU,Big 12,2
+RamsJa00,Jalen Ramsey,LAR,NFC,NFC West,CB,def_backs,5,6,Florida St.,ACC,16
+RappTa00,Taylor Rapp,LAR,NFC,NFC West,S,def_backs,24,3,Washington,Pac-12,17
+ReedTr01,Troy Reeder,LAR,NFC,NFC West,LB,def_lbs,51,3,Delaware,FCS,10
+RobiAS00,A'Shawn Robinson,LAR,NFC,NFC West,DT,def_line,94,6,Alabama,SEC,14
+RochRo00,Robert Rochell,LAR,NFC,NFC West,DB,def_backs,31,1,Central Arkansas,FCS,5
+ScotNi01,Nick Scott,LAR,NFC,NFC West,S,def_backs,33,3,Penn St.,Big Ten,1
+ShelCo00,Coleman Shelton,LAR,NFC,NFC West,C,off_line,65,3,Washington,Pac-12,2
+SkowBe00,Ben Skowronek,LAR,NFC,NFC West,WR,off_skill,18,1,Notre Dame,Independent,1
+StafMa00,Matthew Stafford,LAR,NFC,NFC West,QB,off_skill,9,13,Georgia,SEC,17
+WhitAn20,Andrew Whitworth,LAR,NFC,NFC West,T,off_line,77,16,LSU,SEC,15
+WillDa09,Darious Williams,LAR,NFC,NFC West,CB,def_backs,11,4,Ala-Birmingham,C-USA,13
+WoodRo02,Robert Woods,LAR,NFC,NFC West,WR,off_skill,2,9,USC,Pac-12,9

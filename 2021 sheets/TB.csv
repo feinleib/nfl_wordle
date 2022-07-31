@@ -1,0 +1,44 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdamAn00,Andrew Adams,TB,NFC,NFC South,S,def_backs,26,6,Connecticut,Independent,3
+BarrSh00,Shaquil Barrett,TB,NFC,NFC South,OLB,def_lbs,58,8,Colorado St.,Mountain West,15
+BradTo00,Tom Brady,TB,NFC,NFC South,QB,off_skill,12,22,Michigan,Big Ten,17
+BratCa00,Cameron Brate,TB,NFC,NFC South,TE,off_skill,84,8,Harvard,FCS,3
+BrowAn04,Antonio Brown,TB,NFC,NFC South,WR,off_skill,81,12,Central Michigan,MAC,3
+CappAl00,Alex Cappa,TB,NFC,NFC South,OT,off_line,65,4,Humboldt St.,D2,17
+CockRo00,Ross Cockrell,TB,NFC,NFC South,CB,def_backs,43,8,Duke,ACC,4
+DaviLa00,Lavonte David,TB,NFC,NFC South,OLB,def_lbs,54,10,Nebraska,Big Ten,12
+DaviCa02,Carlton Davis,TB,NFC,NFC South,CB,def_backs,24,4,Auburn,SEC,10
+DeanJa00,Jamel Dean,TB,NFC,NFC South,CB,def_backs,35,3,Auburn,SEC,11
+DelaDe00,Dee Delaney,TB,NFC,NFC South,CB,def_backs,30,4,Miami (FL),ACC,2
+DesiPi00,Pierre Desir,TB,NFC,NFC South,CB,def_backs,29,8,Lindenwood,D2,2
+EdwaMi01,Mike Edwards,TB,NFC,NFC South,CB,def_backs,32,3,Hawaii,Mountain West,4
+EvanMi00,Mike Evans,TB,NFC,NFC South,WR,off_skill,13,8,Texas A&M,SEC,16
+FourLe00,Leonard Fournette,TB,NFC,NFC South,RB,off_skill,7,5,LSU,SEC,13
+GholWi00,William Gholston,TB,NFC,NFC South,DE,def_line,92,9,Michigan St.,Big Ten,10
+GodwCh00,Chris Godwin,TB,NFC,NFC South,WR,off_skill,14,5,Penn St.,Big Ten,14
+GrayCy01,Cyril Grayson,TB,NFC,NFC South,WR,off_skill,15,4,LSU,SEC,3
+GronRo00,Rob Gronkowski,TB,NFC,NFC South,TE,off_skill,87,12,Arizona,Pac-12,12
+HowaO.00,O.J. Howard,TB,NFC,NFC South,TE,off_skill,80,5,Alabama,SEC,9
+JensRy00,Ryan Jensen,TB,NFC,NFC South,T,off_line,66,9,Colorado State-Pueblo,D2,17
+JohnTy00,Tyler Johnson,TB,NFC,NFC South,WR,off_skill,18,2,Minnesota,Big Ten,3
+JoneRo01,Ronald Jones II,TB,NFC,NFC South,RB,off_skill,27,4,USC,Pac-12,3
+MarpAl00,Ali Marpet,TB,NFC,NFC South,C,off_line,74,7,Hobart,D3,16
+MintKe00,Kevin Minter,TB,NFC,NFC South,ILB,def_lbs,51,9,LSU,SEC,5
+BuntSe00,Sean Murphy-Bunting,TB,NFC,NFC South,CB,def_backs,23,3,Central Michigan,MAC,8
+NelsAn01,Anthony Nelson,TB,NFC,NFC South,DL,def_line,98,3,Iowa,Big Ten,2
+NuneRa00,Rakeem Nunez-Roches,TB,NFC,NFC South,DT,def_line,56,7,Southern Miss,C-USA,1
+PierJa99,Jason Pierre-Paul,TB,NFC,NFC South,DE,def_line,90,12,South Florida,American,12
+PiniBr00,Bradley Pinion,TB,NFC,NFC South,P,spec_teams,8,7,Clemson,ACC,0
+SherRi00,Richard Sherman,TB,NFC,NFC South,DB,def_backs,5,11,Stanford,Pac-12,3
+SmitDo02,Donovan Smith,TB,NFC,NFC South,OT,off_line,76,7,Penn St.,Big Ten,17
+StinAa00,Aaron Stinnie,TB,NFC,NFC South,G,off_line,64,4,James Madison,FCS,1
+SuccRy44,Ryan Succop,TB,NFC,NFC South,K,spec_teams,3,13,South Carolina,SEC,0
+SuhxNd99,Ndamukong Suh,TB,NFC,NFC South,DT,def_line,93,12,Nebraska,Big Ten,17
+TryoJo00,Joe Tryon-Shoyinka,TB,NFC,NFC South,OLB,def_lbs,9,1,Washington,Pac-12,6
+VaugKe00,Ke'Shawn Vaughn,TB,NFC,NFC South,RB,off_skill,21,2,Vanderbilt,SEC,1
+VeaxVi00,Vita Vea,TB,NFC,NFC South,DT,def_line,50,4,Washington,Pac-12,16
+WellJo02,Josh Wells,TB,NFC,NFC South,T,off_line,72,8,James Madison,FCS,5
+WhitDe02,Devin White,TB,NFC,NFC South,LB,def_lbs,45,3,LSU,SEC,17
+WhitJo03,Jordan Whitehead,TB,NFC,NFC South,SS,def_backs,33,4,Pittsburgh,ACC,14
+WinfAn00,Antoine Winfield Jr.,TB,NFC,NFC South,S,def_backs,31,2,Minnesota,Big Ten,13
+WirfTr00,Tristan Wirfs,TB,NFC,NFC South,OL,off_line,78,2,Iowa,Big Ten,17

@@ -1,0 +1,40 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AlleJo02,Josh Allen,BUF,AFC,AFC East,QB,off_skill,17,4,Wyoming,Mountain West,17
+BassTy00,Tyler Bass,BUF,AFC,AFC East,K,spec_teams,2,2,Georgia Southern,Sun Belt,0
+BateRy02,Ryan Bates,BUF,AFC,AFC East,OL,off_line,71,3,Penn St.,Big Ten,4
+BeasCo00,Cole Beasley,BUF,AFC,AFC East,WR,off_skill,11,10,SMU,American,8
+BoetIk00,Ike Boettger,BUF,AFC,AFC East,G,off_line,65,4,Iowa,Big Ten,10
+BrowSp00,Spencer Brown,BUF,AFC,AFC East,OT,off_line,79,1,Northern Iowa,FCS,10
+ButlVe00,Vernon Butler,BUF,AFC,AFC East,DT,def_line,94,6,Louisiana Tech,C-USA,1
+DaviGa01,Gabriel Davis,BUF,AFC,AFC East,WR,off_skill,13,2,Central Florida,American,4
+DawkDi00,Dion Dawkins,BUF,AFC,AFC East,OG,off_line,73,5,Temple,American,15
+DiggSt00,Stefon Diggs,BUF,AFC,AFC East,WR,off_skill,14,7,Maryland,Big Ten,17
+EdmuTr01,Tremaine Edmunds,BUF,AFC,AFC East,ILB,def_lbs,49,4,Virginia Tech,ACC,15
+FeliJo00,Jon Feliciano,BUF,AFC,AFC East,OG,off_line,76,7,Miami (FL),ACC,6
+FordCo00,Cody Ford,BUF,AFC,AFC East,OL,off_line,74,3,Oklahoma,Big 12,7
+GillRe00,Reggie Gilliam,BUF,AFC,AFC East,TE,off_skill,41,2,Toledo,MAC,5
+HaacMa00,Matt Haack,BUF,AFC,AFC East,P,spec_teams,3,5,Arizona St.,Pac-12,0
+HughJe99,Jerry Hughes,BUF,AFC,AFC East,DE,def_line,55,12,TCU,Big 12,16
+HydeMi00,Micah Hyde,BUF,AFC,AFC East,CB,def_backs,23,9,Iowa,Big Ten,17
+JackDa02,Dane Jackson,BUF,AFC,AFC East,CB,def_backs,30,2,Pittsburgh,ACC,6
+JohnJa11,Jaquan Johnson,BUF,AFC,AFC East,CB,def_backs,46,3,Miami (FL),ACC,1
+JohnTa01,Taron Johnson,BUF,AFC,AFC East,CB,def_backs,24,4,Weber St.,FCS,15
+KleiAJ00,A.J. Klein,BUF,AFC,AFC East,ILB,def_lbs,54,9,Iowa St.,Big 12,4
+KnoxDa00,Dawson Knox,BUF,AFC,AFC East,TE,off_skill,88,3,Mississippi,SEC,14
+KumeJa00,Jake Kumerow,BUF,AFC,AFC East,WR,off_skill,15,4,Wisconsin–Whitewater,D3,2
+LewiCa00,Cameron Lewis,BUF,AFC,AFC East,DB,def_backs,47,2,Buffalo,MAC,1
+LotuSt00,Star Lotulelei,BUF,AFC,AFC East,DT,def_line,98,9,Utah,Pac-12,8
+McKeIs00,Isaiah McKenzie,BUF,AFC,AFC East,WR,off_skill,19,5,Georgia,SEC,2
+MilaMa00,Matt Milano,BUF,AFC,AFC East,OLB,def_lbs,58,5,Boston Col.,ACC,16
+MorsMi00,Mitch Morse,BUF,AFC,AFC East,OT,off_line,60,7,Missouri,SEC,17
+ObadEf00,Efe Obada,BUF,AFC,AFC East,LB,def_lbs,93,4,(none),none,1
+OlivEd00,Ed Oliver,BUF,AFC,AFC East,DL,def_line,91,3,Houston,American,17
+PhilHa00,Harrison Phillips,BUF,AFC,AFC East,DT,def_line,99,4,Stanford,Pac-12,8
+PoyeJo00,Jordan Poyer,BUF,AFC,AFC East,CB,def_backs,21,9,Oregon St.,Pac-12,16
+RousGr00,Gregory Rousseau,BUF,AFC,AFC East,DE,def_line,50,1,Miami (FL),ACC,17
+SandEm00,Emmanuel Sanders,BUF,AFC,AFC East,WR,off_skill,1,12,SMU,American,13
+SingDe00,Devin Singletary,BUF,AFC,AFC East,RB,off_skill,26,3,Florida Atlantic,C-USA,16
+SweeTo00,Tommy Sweeney,BUF,AFC,AFC East,TE,off_skill,89,3,Boston Col.,ACC,3
+WallLe00,Levi Wallace,BUF,AFC,AFC East,CB,def_backs,39,4,Alabama,SEC,17
+WhitTr01,Tre'Davious White,BUF,AFC,AFC East,CB,def_backs,27,5,LSU,SEC,11
+WillDa06,Daryl Williams,BUF,AFC,AFC East,OT,off_line,75,7,Oklahoma,Big 12,17

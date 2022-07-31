@@ -1,0 +1,53 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BarsAl01,Alex Bars,CHI,NFC,NFC North,T,off_line,64,3,Notre Dame,Independent,3
+BlacAn00,Angelo Blackson,CHI,NFC,NFC North,DT,def_line,90,7,Auburn,SEC,8
+BoroLa00,Larry Borom,CHI,NFC,NFC North,OL,off_line,75,1,Missouri,SEC,8
+BurnAr00,Artie Burns,CHI,NFC,NFC North,CB,def_backs,25,6,Miami (FL),ACC,6
+BushDe00,Deon Bush,CHI,NFC,NFC North,FS,def_backs,26,6,Miami (FL),ACC,4
+ByrdDa00,Damiere Byrd,CHI,NFC,NFC North,WR,off_skill,10,6,South Carolina,SEC,4
+ChriMa00,Marqui Christian,CHI,NFC,NFC North,SS,def_backs,23,6,Midwestern St.,D2,1
+CrawXa00,Xavier Crawford,CHI,NFC,NFC North,CB,def_backs,21,3,Central Michigan,MAC,2
+DaltAn00,Andy Dalton,CHI,NFC,NFC North,QB,off_skill,14,11,TCU,Big 12,6
+DaniJa01,James Daniels,CHI,NFC,NFC North,C,off_line,68,4,Iowa,Big Ten,17
+EdwaMa01,Mario Edwards,CHI,NFC,NFC North,DE,def_line,97,7,Florida St.,ACC,1
+FielJu00,Justin Fields,CHI,NFC,NFC North,QB,off_skill,1,1,Ohio St.,Big Ten,10
+FoleNi00,Nick Foles,CHI,NFC,NFC North,QB,off_skill,9,10,Arizona,Pac-12,1
+GipsTa00,Tashaun Gipson,CHI,NFC,NFC North,DB,def_backs,38,10,Wyoming,Mountain West,12
+GipsTr00,Trevis Gipson,CHI,NFC,NFC North,DL,def_line,99,2,Tulsa,American,9
+GoldEd00,Eddie Goldman,CHI,NFC,NFC North,DT,def_line,91,7,Florida St.,ACC,10
+GoodMa00,Marquise Goodwin,CHI,NFC,NFC North,WR,off_skill,84,9,Texas,Big 12,2
+GrahJi00,Jimmy Graham,CHI,NFC,NFC North,TE,off_skill,80,12,Miami (FL),ACC,6
+GrahTh00,Thomas Graham,CHI,NFC,NFC North,CB,def_backs,27,1,Oregon,Pac-12,1
+HerbKh00,Khalil Herbert,CHI,NFC,NFC North,RB,off_skill,24,1,Virginia Tech,ACC,2
+HickAk00,Akiem Hicks,CHI,NFC,NFC North,DE,def_line,96,10,Regina,Canada,9
+HousDe00,DeAndre Houston-Carson,CHI,NFC,NFC North,FS,def_backs,36,6,William & Mary,FCS,3
+IfedGe00,Germain Ifedi,CHI,NFC,NFC North,OT,off_line,74,6,Texas A&M,SEC,7
+IrviBr00,Bruce Irvin,CHI,NFC,NFC North,DE,def_line,46,10,West Virginia,Big 12,1
+JackEd01,Eddie Jackson,CHI,NFC,NFC North,SS,def_backs,4,5,Alabama,SEC,14
+JameJe00,Jesse James,CHI,NFC,NFC North,TE,off_skill,18,7,Penn St.,Big Ten,9
+JenkTe00,Teven Jenkins,CHI,NFC,NFC North,T,off_line,76,1,Oklahoma St.,Big 12,2
+JohnJa13,Jaylon Johnson,CHI,NFC,NFC North,CB,def_backs,33,2,Utah,Pac-12,15
+JoneCh05,Christian Jones,CHI,NFC,NFC North,ILB,def_lbs,57,8,Florida St.,ACC,1
+KmetCo00,Cole Kmet,CHI,NFC,NFC North,TE,off_skill,85,2,Notre Dame,Independent,17
+MackKh00,Khalil Mack,CHI,NFC,NFC North,OLB,def_lbs,52,8,Buffalo,MAC,7
+MontDa01,David Montgomery,CHI,NFC,NFC North,RB,off_skill,32,3,Iowa St.,Big 12,13
+MoonDa00,Darnell Mooney,CHI,NFC,NFC North,WR,off_skill,11,2,Tulane,American,14
+MustSa01,Sam Mustipher,CHI,NFC,NFC North,C,off_line,67,2,Notre Dame,Independent,17
+NewsDa00,Dazz Newsome,CHI,NFC,NFC North,WR,off_skill,83,1,North Carolina,ACC,1
+NichBi00,Bilal Nichols,CHI,NFC,NFC North,DT,def_line,98,4,Delaware,FCS,15
+ODonPa00,Pat O'Donnell,CHI,NFC,NFC North,P,spec_teams,16,8,Miami (FL),ACC,0
+OgleAl00,Alec Ogletree,CHI,NFC,NFC North,OLB,def_lbs,44,9,Georgia,SEC,16
+PeteJa21,Jason Peters,CHI,NFC,NFC North,T,off_line,71,18,Arkansas,SEC,15
+QuinRo00,Robert Quinn,CHI,NFC,NFC North,DE,def_line,94,11,North Carolina,ACC,16
+RobiAl02,Allen Robinson,CHI,NFC,NFC North,WR,off_skill,12,8,Penn St.,Big Ten,11
+SantCa01,Cairo Santos,CHI,NFC,NFC North,K,spec_teams,2,8,Tulane,American,0
+ShelDu00,Duke Shelley,CHI,NFC,NFC North,CB,def_backs,20,3,Kansas St.,Big 12,4
+SimmLa00,Lachavious Simmons,CHI,NFC,NFC North,G,off_line,73,1,Tennessee St.,FCS,1
+SmitRo07,Roquan Smith,CHI,NFC,NFC North,ILB,def_lbs,58,4,Georgia,SEC,17
+TaboTe00,Teez Tabor,CHI,NFC,NFC North,CB,def_backs,37,5,Florida,SEC,1
+TongKh00,Khyiris Tonga,CHI,NFC,NFC North,DT,def_line,95,1,BYU,Independent,2
+TrevDa00,Danny Trevathan,CHI,NFC,NFC North,OLB,def_lbs,59,10,Kentucky,SEC,1
+VildKi00,Kindle Vildor,CHI,NFC,NFC North,CB,def_backs,22,2,Georgia Southern,Sun Belt,12
+WhitCo03,Cody Whitehair,CHI,NFC,NFC North,OG,off_line,65,6,Kansas St.,Big 12,17
+WilkEl00,Elijah Wilkinson,CHI,NFC,NFC North,OT,off_line,70,5,Massachusetts,Independent,1
+WillDa05,Damien Williams,CHI,NFC,NFC North,RB,off_skill,8,8,Oklahoma,Big 12,2

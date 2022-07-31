@@ -1,0 +1,49 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BakeJe00,Jerome Baker,MIA,AFC,AFC East,OLB,def_lbs,55,4,Ohio St.,Big Ten,16
+BrisJa00,Jacoby Brissett,MIA,AFC,AFC East,QB,off_skill,14,6,North Carolina St.,ACC,5
+BrowMa03,Malcolm Brown,MIA,AFC,AFC East,RB,off_skill,34,7,Texas,Big 12,3
+ButlAd00,Adam Butler,MIA,AFC,AFC East,DT,def_line,70,5,Vanderbilt,SEC,1
+CartCe00,Cethan Carter,MIA,AFC,AFC East,TE,off_skill,82,5,Nebraska,Big Ten,1
+ColeJu01,Justin Coleman,MIA,AFC,AFC East,CB,def_backs,27,7,Tennessee,SEC,4
+DaviJe00,Jesse Davis,MIA,AFC,AFC East,T,off_line,77,5,Idaho,FCS,16
+DaviRa03,Raekwon Davis,MIA,AFC,AFC East,DL,def_line,98,2,Alabama,SEC,14
+DeitMi00,Michael Deiter,MIA,AFC,AFC East,OL,off_line,63,3,Wisconsin,Big Ten,8
+EichLi00,Liam Eichenberg,MIA,AFC,AFC East,T,off_line,74,1,Notre Dame,Independent,16
+FordIs00,Isaiah Ford,MIA,AFC,AFC East,WR,off_skill,87,4,Virginia Tech,ACC,2
+GaskMy00,Myles Gaskin,MIA,AFC,AFC East,RB,off_skill,37,3,Washington,Pac-12,10
+GesiMi00,Mike Gesicki,MIA,AFC,AFC East,TE,off_skill,88,4,Penn St.,Big Ten,9
+HollJe02,Jevon Holland,MIA,AFC,AFC East,S,def_backs,22,1,Oregon,Pac-12,13
+HollMa00,Mack Hollins,MIA,AFC,AFC East,WR,off_skill,86,5,North Carolina,ACC,3
+HowaXa00,Xavien Howard,MIA,AFC,AFC East,CB,def_backs,25,6,Baylor,Big 12,16
+HuntRo01,Robert Hunt,MIA,AFC,AFC East,OL,off_line,68,2,Louisiana,Sun Belt,17
+IgbiNo00,Noah Igbinoghene,MIA,AFC,AFC East,CB,def_backs,9,2,Auburn,SEC,1
+JackAu00,Austin Jackson,MIA,AFC,AFC East,OL,off_line,73,2,USC,Pac-12,16
+JenkJo00,John Jenkins,MIA,AFC,AFC East,DT,def_line,90,9,Georgia,SEC,2
+JohnDu00,Duke Johnson,MIA,AFC,AFC East,RB,off_skill,28,7,Miami (FL),ACC,4
+JoneBr06,Brandon Jones,MIA,AFC,AFC East,S,def_backs,29,2,Texas,Big 12,13
+JoneBy00,Byron Jones,MIA,AFC,AFC East,CB,def_backs,24,7,Connecticut,Independent,16
+JoneRo02,Robert Jones,MIA,AFC,AFC East,G,off_line,65,1,Middle Tenn. St.,C-USA,1
+KindSo00,Solomon Kindley,MIA,AFC,AFC East,OL,off_line,66,2,Georgia,SEC,2
+LongHu00,Hunter Long,MIA,AFC,AFC East,TE,off_skill,84,1,Boston Col.,ACC,2
+MancGr00,Greg Mancz,MIA,AFC,AFC East,C,off_line,62,7,Toledo,MAC,4
+McCoJa99,Jason McCourty,MIA,AFC,AFC East,DB,def_backs,30,13,Rutgers,Big Ten,4
+NeedNi00,Nik Needham,MIA,AFC,AFC East,DB,def_backs,40,3,Texas-El Paso,C-USA,5
+OgbaEm00,Emmanuel Ogbah,MIA,AFC,AFC East,DE,def_line,91,6,Oklahoma St.,Big 12,11
+PalaMi00,Michael Palardy,MIA,AFC,AFC East,P,spec_teams,5,8,Tennessee,SEC,0
+ParkDe01,DeVante Parker,MIA,AFC,AFC East,WR,off_skill,11,7,Louisville,ACC,8
+PhilJa02,Jaelan Phillips,MIA,AFC,AFC East,LB,def_lbs,15,1,Miami (FL),ACC,5
+ReitAu00,Austin Reiter,MIA,AFC,AFC East,C,off_line,61,6,South Florida,American,5
+RileDu00,Duke Riley,MIA,AFC,AFC East,OLB,def_lbs,45,5,LSU,SEC,3
+RobeEl00,Elandon Roberts,MIA,AFC,AFC East,ILB,def_lbs,52,6,Houston,American,15
+RoweEr00,Eric Rowe,MIA,AFC,AFC East,CB,def_backs,21,7,Utah,Pac-12,4
+SandJa00,Jason Sanders,MIA,AFC,AFC East,K,spec_teams,7,4,New Mexico,Mountain West,0
+ScarBr00,Brennan Scarlett,MIA,AFC,AFC East,LB,def_lbs,57,6,Stanford,Pac-12,4
+ShahAd00,Adam Shaheen,MIA,AFC,AFC East,TE,off_skill,80,5,Ashland,D2,7
+SielZa00,Zach Sieler,MIA,AFC,AFC East,DE,def_line,92,4,Ferris St.,D2,9
+SmytDu00,Durham Smythe,MIA,AFC,AFC East,TE,off_skill,81,4,Notre Dame,Independent,12
+TagoTu00,Tua Tagovailoa,MIA,AFC,AFC East,QB,off_skill,1,2,Alabama,SEC,12
+VanGAn00,Andrew Van Ginkel,MIA,AFC,AFC East,LB,def_lbs,43,3,Wisconsin,Big Ten,14
+WaddJa00,Jaylen Waddle,MIA,AFC,AFC East,WR,off_skill,17,1,Alabama,SEC,16
+WilkCh00,Christian Wilkins,MIA,AFC,AFC East,DL,def_line,94,3,Clemson,ACC,17
+WillPr01,Preston Williams,MIA,AFC,AFC East,WR,off_skill,18,3,Colorado St.,Mountain West,3
+WilsAl02,Albert Wilson,MIA,AFC,AFC East,WR,off_skill,2,8,Georgia St.,Sun Belt,5

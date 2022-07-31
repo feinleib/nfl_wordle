@@ -1,0 +1,40 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BakeDe00,Deandre Baker,KC,AFC,AFC West,CB,def_backs,30,3,Georgia,SEC,1
+BellBl00,Blake Bell,KC,AFC,AFC West,TE,off_skill,81,7,Oklahoma,Big 12,5
+BoltNi00,Nick Bolton,KC,AFC,AFC West,LB,def_lbs,54,1,Missouri,SEC,12
+BrowOr00,Orlando Brown Jr.,KC,AFC,AFC West,OT,off_line,57,4,Oklahoma,Big 12,16
+ButkHa00,Harrison Butker,KC,AFC,AFC West,K,spec_teams,7,5,Georgia Tech,ACC,0
+ClarFr01,Frank Clark,KC,AFC,AFC West,DE,def_line,55,7,Michigan,Big Ten,14
+DannMi00,Michael Danna,KC,AFC,AFC West,DE,def_line,51,2,Michigan,Big Ten,6
+EdwaCl00,Clyde Edwards-Helaire,KC,AFC,AFC West,RB,off_skill,25,2,LSU,SEC,10
+FentRa00,Rashad Fenton,KC,AFC,AFC West,CB,def_backs,27,3,South Carolina,SEC,8
+GayJWi00,Willie Gay Jr.,KC,AFC,AFC West,LB,def_lbs,50,2,Mississippi St.,SEC,11
+GordJo02,Josh Gordon,KC,AFC,AFC West,WR,off_skill,19,10,Baylor,Big 12,7
+GrayNo00,Noah Gray,KC,AFC,AFC West,TE,off_skill,83,1,Duke,ACC,1
+HardMe00,Mecole Hardman,KC,AFC,AFC West,WR,off_skill,17,3,Georgia,SEC,8
+HillTy00,Tyreek Hill,KC,AFC,AFC West,WR,off_skill,10,6,West Alabama,D2,16
+HitcAn00,Anthony Hitchens,KC,AFC,AFC West,OLB,def_lbs,53,8,Iowa,Big Ten,15
+HughMi00,Mike Hughes,KC,AFC,AFC West,CB,def_backs,21,4,Central Florida,American,5
+HumpCr00,Creed Humphrey,KC,AFC,AFC West,OL,off_line,52,1,Oklahoma,Big 12,17
+IngrMe00,Melvin Ingram,KC,AFC,AFC West,DE,def_line,24,10,South Carolina,SEC,6
+JoneCh09,Chris Jones,KC,AFC,AFC West,DT,def_line,95,6,Mississippi St.,SEC,14
+KelcTr00,Travis Kelce,KC,AFC,AFC West,TE,off_skill,87,9,Cincinnati,American,16
+MahoPa00,Patrick Mahomes,KC,AFC,AFC West,QB,off_skill,15,5,Texas Tech,Big 12,17
+MathTy00,Tyrann Mathieu,KC,AFC,AFC West,CB,def_backs,32,9,LSU,SEC,16
+NianLu00,Lucas Niang,KC,AFC,AFC West,T,off_line,67,1,TCU,Big 12,9
+NiemBe00,Ben Niemann,KC,AFC,AFC West,RILB,def_lbs,56,4,Iowa,Big Ten,5
+NnadDe00,Derrick Nnadi,KC,AFC,AFC West,DT,def_line,91,4,Florida St.,ACC,10
+PrinBy00,Byron Pringle,KC,AFC,AFC West,WR,off_skill,13,4,Kansas St.,Big 12,5
+ReedJa02,Jarran Reed,KC,AFC,AFC West,DT,def_line,90,6,Alabama,SEC,17
+RemmMi00,Mike Remmers,KC,AFC,AFC West,T,off_line,75,10,Oregon St.,Pac-12,2
+RobiDe01,Demarcus Robinson,KC,AFC,AFC West,WR,off_skill,11,6,Florida,SEC,10
+SmitTr05,Trey Smith,KC,AFC,AFC West,OL,off_line,65,1,Tennessee,SEC,17
+SneeLJ00,L'Jarius Sneed,KC,AFC,AFC West,S,def_backs,38,2,Louisiana Tech,C-USA,15
+SoreDa01,Daniel Sorensen,KC,AFC,AFC West,S,def_backs,49,8,BYU,Independent,7
+ThorJu00,Juan Thornhill,KC,AFC,AFC West,S,def_backs,22,3,Virginia,ACC,12
+ThunJo00,Joe Thuney,KC,AFC,AFC West,OG,off_line,62,6,North Carolina St.,ACC,17
+TownTo01,Tommy Townsend,KC,AFC,AFC West,P,spec_teams,5,2,Florida,SEC,0
+WardCh01,Charvarius Ward,KC,AFC,AFC West,DB,def_backs,35,4,Middle Tenn. St.,C-USA,12
+WharTe00,Tershawn Wharton,KC,AFC,AFC West,DE,def_line,98,2,Missouri S&T,D2,1
+WillDa10,Darrel Williams,KC,AFC,AFC West,RB,off_skill,31,4,LSU,SEC,7
+WyliAn00,Andrew Wylie,KC,AFC,AFC West,T,off_line,77,4,East. Michigan,MAC,7

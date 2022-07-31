@@ -1,0 +1,51 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AndeCa00,Calvin Anderson,DEN,AFC,AFC West,T,off_line,76,2,Texas,Big 12,3
+BollGa00,Garett Bolles,DEN,AFC,AFC West,OT,off_line,72,5,Utah,Pac-12,14
+BridTe00,Teddy Bridgewater,DEN,AFC,AFC West,QB,off_skill,5,8,Louisville,ACC,14
+BrowBa01,Baron Browning,DEN,AFC,AFC West,LB,def_lbs,56,1,Ohio St.,Big Ten,9
+CallBr00,Bryce Callahan,DEN,AFC,AFC West,CB,def_backs,29,7,Rice,C-USA,6
+ChubBr00,Bradley Chubb,DEN,AFC,AFC West,DE,def_line,55,4,North Carolina St.,ACC,7
+CoopJo02,Jonathon Cooper,DEN,AFC,AFC West,OLB,def_lbs,53,1,Ohio St.,Big Ten,5
+CushLl00,Lloyd Cushenberry III,DEN,AFC,AFC West,OL,off_line,79,2,LSU,SEC,16
+DarbRo00,Ronald Darby,DEN,AFC,AFC West,CB,def_backs,21,7,Florida St.,ACC,11
+FantNo00,Noah Fant,DEN,AFC,AFC West,TE,off_skill,87,3,Iowa,Big Ten,16
+FlemCa00,Cameron Fleming,DEN,AFC,AFC West,OT,off_line,73,8,Stanford,Pac-12,4
+FullKy00,Kyle Fuller,DEN,AFC,AFC West,CB,def_backs,23,8,Virginia Tech,ACC,10
+GlasGr00,Graham Glasgow,DEN,AFC,AFC West,OG,off_line,61,6,Michigan,Big Ten,7
+GordMe00,Melvin Gordon,DEN,AFC,AFC West,RB,off_skill,25,7,Wisconsin,Big Ten,16
+GrifJo01,Jonas Griffith,DEN,AFC,AFC West,LB,def_lbs,50,1,Indiana St.,FCS,4
+HairNa00,Nate Hairston,DEN,AFC,AFC West,CB,def_backs,27,5,Temple,American,1
+HamlKJ00,KJ Hamler,DEN,AFC,AFC West,WR,off_skill,1,2,Penn St.,Big Ten,2
+HarrSh00,Shelby Harris,DEN,AFC,AFC West,DE,def_line,96,8,Illinois St.,FCS,16
+HintKe00,Kendall Hinton,DEN,AFC,AFC West,WR,off_skill,9,2,Wake Forest,ACC,1
+JackKa99,Kareem Jackson,DEN,AFC,AFC West,DB,def_backs,22,12,Alabama,SEC,15
+JeudJe00,Jerry Jeudy,DEN,AFC,AFC West,WR,off_skill,10,2,Alabama,SEC,5
+JeweJo00,Josey Jewell,DEN,AFC,AFC West,ILB,def_lbs,47,4,Iowa,Big Ten,2
+JohnAl01,Alexander Johnson,DEN,AFC,AFC West,LB,def_lbs,45,4,Tennessee,SEC,6
+JoneDr00,Dre'Mont Jones,DEN,AFC,AFC West,DL,def_line,93,3,Ohio St.,Big Ten,7
+KiseMi00,Micah Kiser,DEN,AFC,AFC West,ILB,def_lbs,43,4,Virginia,ACC,2
+LockDr00,Drew Lock,DEN,AFC,AFC West,QB,off_skill,3,3,Missouri,SEC,3
+MartSa01,Sam Martin,DEN,AFC,AFC West,P,spec_teams,6,9,Appalachian St.,Sun Belt,0
+MassBo00,Bobby Massie,DEN,AFC,AFC West,T,off_line,70,10,Mississippi,SEC,13
+McMaBr01,Brandon McManus,DEN,AFC,AFC West,K,spec_teams,8,8,Temple,American,0
+MeinQu02,Quinn Meinerz,DEN,AFC,AFC West,OL,off_line,77,1,Wisconsin–Whitewater,D3,9
+MutiNe00,Netane Muti,DEN,AFC,AFC West,OL,off_line,52,2,Fresno St.,Mountain West,3
+OjemMi00,Michael Ojemudia,DEN,AFC,AFC West,CB,def_backs,13,2,Iowa,Big Ten,1
+OkwuAl00,Albert Okwuegbunam,DEN,AFC,AFC West,TE,off_skill,85,2,Missouri,SEC,6
+PatrAa00,Aaron Patrick,DEN,AFC,AFC West,DE,def_line,94,1,East. Kentucky,FCS,1
+PatrTi00,Tim Patrick,DEN,AFC,AFC West,WR,off_skill,81,4,Utah,Pac-12,16
+PurcMi00,Mike Purcell,DEN,AFC,AFC West,DT,def_line,98,9,Wyoming,Mountain West,10
+ReedMa01,Malik Reed,DEN,AFC,AFC West,LB,def_lbs,59,3,Nevada,Mountain West,13
+RisnDa00,Dalton Risner,DEN,AFC,AFC West,OL,off_line,66,3,Kansas St.,Big 12,15
+SaubEr00,Eric Saubert,DEN,AFC,AFC West,TE,off_skill,82,5,Drake,FCS,4
+SchlAu00,Austin Schlottmann,DEN,AFC,AFC West,G,off_line,71,3,TCU,Big 12,1
+SimmJu00,Justin Simmons,DEN,AFC,AFC West,FS,def_backs,31,6,Boston Col.,ACC,17
+SterCa00,Caden Sterns,DEN,AFC,AFC West,S,def_backs,30,1,Texas,Big 12,2
+StrnJu00,Justin Strnad,DEN,AFC,AFC West,LB,def_lbs,40,1,Wake Forest,ACC,5
+SurtPa01,Patrick Surtain II,DEN,AFC,AFC West,CB,def_backs,2,1,Alabama,SEC,15
+SuttCo00,Courtland Sutton,DEN,AFC,AFC West,WR,off_skill,14,4,SMU,American,16
+WeatSt00,Stephen Weatherly,DEN,AFC,AFC West,OLB,def_lbs,91,6,Vanderbilt,SEC,1
+WillDe04,DeShawn Williams,DEN,AFC,AFC West,DT,def_line,90,6,Clemson,ACC,8
+WillJa10,Javonte Williams,DEN,AFC,AFC West,RB,off_skill,33,1,North Carolina,ACC,1
+WillSe00,Seth Williams,DEN,AFC,AFC West,WR,off_skill,19,1,Auburn,SEC,1
+YounKe03,Kenny Young,DEN,AFC,AFC West,MLB,def_lbs,41,4,UCLA,Pac-12,6

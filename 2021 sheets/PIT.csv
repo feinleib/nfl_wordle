@@ -1,0 +1,48 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdamMo00,Montravius Adams,PIT,AFC,AFC North,DT,def_line,57,5,Auburn,SEC,4
+AlleMa03,Marcus Allen,PIT,AFC,AFC North,S,def_backs,27,4,Penn St.,Big Ten,1
+AluaTy99,Tyson Alualu,PIT,AFC,AFC North,DT,def_line,94,12,California,Pac-12,2
+BoswCh00,Chris Boswell,PIT,AFC,AFC North,K,spec_teams,9,7,Rice,C-USA,0
+BuggIs00,Isaiah Buggs,PIT,AFC,AFC North,DL,def_line,96,3,Alabama,SEC,6
+BushDe01,Devin Bush Jr.,PIT,AFC,AFC North,LB,def_lbs,55,3,Michigan,Big Ten,14
+CharTa00,Taco Charlton,PIT,AFC,AFC North,DE,def_line,98,5,Michigan,Big Ten,1
+ClayCh01,Chase Claypool,PIT,AFC,AFC North,WR,off_skill,11,2,Notre Dame,Independent,13
+DotsKe00,Kevin Dotson,PIT,AFC,AFC North,OL,off_line,69,2,Louisiana,Sun Belt,9
+EbroEr00,Eric Ebron,PIT,AFC,AFC North,TE,off_skill,85,8,North Carolina,ACC,3
+EdmuTe00,Terrell Edmunds,PIT,AFC,AFC North,S,def_backs,34,4,Virginia Tech,ACC,17
+FinnB.01,B.J. Finney,PIT,AFC,AFC North,C,off_line,67,6,Kansas St.,Big 12,2
+FitzMi00,Minkah Fitzpatrick,PIT,AFC,AFC North,FS,def_backs,39,4,Alabama,SEC,16
+FreiPa00,Pat Freiermuth,PIT,AFC,AFC North,TE,off_skill,88,1,Penn St.,Big Ten,9
+GentZa00,Zach Gentry,PIT,AFC,AFC North,TE,off_skill,81,3,Michigan,Big Ten,12
+GreeKe02,Kendrick Green,PIT,AFC,AFC North,C,off_line,53,1,Illinois,Big Ten,15
+HadeJo99,Joe Haden,PIT,AFC,AFC North,DB,def_backs,23,12,Florida,SEC,11
+HaegJo00,Joe Haeg,PIT,AFC,AFC North,OT,off_line,71,6,North Dakota St.,FCS,2
+HarrNa00,Najee Harris,PIT,AFC,AFC North,RB,off_skill,22,1,Alabama,SEC,17
+HarvPr00,Pressley Harvin III,PIT,AFC,AFC North,P,spec_teams,6,1,Georgia Tech,ACC,0
+HassJ.00,J.C. Hassenauer,PIT,AFC,AFC North,C,off_line,60,2,Alabama,SEC,3
+HeywCa01,Cameron Heyward,PIT,AFC,AFC North,DT,def_line,97,11,Ohio St.,Big Ten,17
+HighAl02,Alex Highsmith,PIT,AFC,AFC North,DL,def_line,56,2,Charlotte,C-USA,16
+JohnDi01,Diontae Johnson,PIT,AFC,AFC North,WR,off_skill,18,3,Toledo,MAC,14
+JoneJa11,Jamir Jones,PIT,AFC,AFC North,OLB,def_lbs,40,1,Notre Dame,Independent,1
+LeglJo00,John Leglue,PIT,AFC,AFC North,G,off_line,77,1,Tulane,American,5
+LoudIs00,Isaiahh Loudermilk,PIT,AFC,AFC North,DE,def_line,92,1,Wisconsin,Big Ten,2
+MaulAr00,Arthur Maulet,PIT,AFC,AFC North,CB,def_backs,35,5,Memphis,American,2
+McClRa00,Ray-Ray McCloud,PIT,AFC,AFC North,WR,off_skill,14,4,Clemson,ACC,5
+MondHe00,Henry Mondeaux,PIT,AFC,AFC North,DT,def_line,99,2,Oregon,Pac-12,2
+MoorDa05,Dan Moore,PIT,AFC,AFC North,OT,off_line,65,1,Texas A&M,SEC,16
+NorwTr00,Tre Norwood,PIT,AFC,AFC North,DB,def_backs,21,1,Oklahoma,Big 12,3
+OkorCh00,Chukwuma Okorafor,PIT,AFC,AFC North,OT,off_line,76,4,Western Michigan,MAC,16
+PierJa01,James Pierre,PIT,AFC,AFC North,DB,def_backs,42,2,Florida Atlantic,C-USA,4
+RadeKe00,Kevin Rader,PIT,AFC,AFC North,TE,off_skill,87,2,Youngstown St.,FCS,1
+RoetBe00,Ben Roethlisberger,PIT,AFC,AFC North,QB,off_skill,7,18,Miami (OH),MAC,16
+RudoMa00,Mason Rudolph,PIT,AFC,AFC North,QB,off_skill,2,4,Oklahoma St.,Big 12,1
+SchoJo00,Joe Schobert,PIT,AFC,AFC North,OLB,def_lbs,45,6,Wisconsin,Big Ten,15
+SmitJu00,JuJu Smith-Schuster,PIT,AFC,AFC North,WR,off_skill,19,5,USC,Pac-12,5
+SpilRo00,Robert Spillane,PIT,AFC,AFC North,LB,def_lbs,41,4,Western Michigan,MAC,4
+SuttCa00,Cameron Sutton,PIT,AFC,AFC North,CB,def_backs,20,5,Tennessee,SEC,16
+TurnTr01,Trai Turner,PIT,AFC,AFC North,OG,off_line,51,8,LSU,SEC,17
+WashJa00,James Washington,PIT,AFC,AFC North,WR,off_skill,13,4,Oklahoma St.,Big 12,2
+WattDe00,Derek Watt,PIT,AFC,AFC North,FB,off_skill,44,6,Wisconsin,Big Ten,4
+WattT.00,T.J. Watt,PIT,AFC,AFC North,OLB,def_lbs,90,5,Wisconsin,Big Ten,15
+WithAh00,Ahkello Witherspoon,PIT,AFC,AFC North,CB,def_backs,25,5,Colorado,Pac-12,3
+WormCh00,Chris Wormley,PIT,AFC,AFC North,DT,def_line,95,5,Michigan,Big Ten,14

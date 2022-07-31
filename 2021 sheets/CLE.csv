@@ -1,0 +1,51 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BitoJo00,Joel Bitonio,CLE,AFC,AFC North,G,off_line,75,8,Nevada,Mountain West,17
+BryaHa00,Harrison Bryant,CLE,AFC,AFC North,TE,off_skill,88,2,Florida Atlantic,C-USA,3
+ChubNi00,Nick Chubb,CLE,AFC,AFC North,RB,off_skill,24,4,Georgia,SEC,14
+ClowJa00,Jadeveon Clowney,CLE,AFC,AFC North,DE,def_line,90,8,South Carolina,SEC,14
+ConkJa00,Jack Conklin,CLE,AFC,AFC North,OT,off_line,78,6,Michigan St.,Big Ten,7
+DayxSh00,Sheldon Day,CLE,AFC,AFC North,DT,def_line,92,6,Notre Dame,Independent,1
+DelpGr00,Grant Delpit,CLE,AFC,AFC North,FS,def_backs,22,1,LSU,SEC,7
+DunnMi01,Michael Dunn,CLE,AFC,AFC North,OT,off_line,68,2,Maryland,Big Ten,2
+ElliJo02,Jordan Elliott,CLE,AFC,AFC North,DL,def_line,96,2,Missouri,SEC,3
+FeltDe00,Demetric Felton,CLE,AFC,AFC North,RB,off_skill,25,1,UCLA,Pac-12,2
+GarrMy00,Myles Garrett,CLE,AFC,AFC North,DE,def_line,95,5,Texas A&M,SEC,17
+GillJa00,Jamie Gillan,CLE,AFC,AFC North,P,spec_teams,7,3,Ark-Pine Bluff,FCS,0
+GreeAJ00,A.J. Green,CLE,AFC,AFC North,DB,def_backs,38,2,Oklahoma St.,Big 12,1
+GustPo01,Porter Gustin,CLE,AFC,AFC North,LB,def_lbs,94,3,USC,Pac-12,1
+HancBl00,Blake Hance,CLE,AFC,AFC North,T,off_line,62,1,Northwestern,Big Ten,8
+HarrNi01,Nick Harris,CLE,AFC,AFC North,OL,off_line,53,2,Washington,Pac-12,1
+HarrRo02,Ronnie Harrison,CLE,AFC,AFC North,SS,def_backs,33,4,Alabama,SEC,11
+HiggRa00,Rashard Higgins,CLE,AFC,AFC North,WR,off_skill,82,6,Colorado St.,Mountain West,4
+HillTr01,Troy Hill,CLE,AFC,AFC North,CB,def_backs,23,7,Oregon,Pac-12,4
+HoopAu00,Austin Hooper,CLE,AFC,AFC North,TE,off_skill,81,6,Stanford,Pac-12,16
+HudsJa00,James Hudson,CLE,AFC,AFC North,OT,off_line,66,1,Cincinnati,American,4
+HuntKa00,Kareem Hunt,CLE,AFC,AFC North,RB,off_skill,27,5,Toledo,MAC,1
+JackMa02,Malik Jackson,CLE,AFC,AFC North,DT,def_line,97,10,Tennessee,SEC,16
+JanoAn00,Andy Janovich,CLE,AFC,AFC North,FB,off_skill,31,6,Nebraska,Big Ten,3
+JohnDE04,D'Ernest Johnson,CLE,AFC,AFC North,RB,off_skill,30,3,South Florida,American,2
+JohnJo10,John Johnson,CLE,AFC,AFC North,S,def_backs,43,5,Boston Col.,ACC,15
+KeenCa00,Case Keenum,CLE,AFC,AFC North,QB,off_skill,5,10,Houston,American,2
+LandJa00,Jarvis Landry,CLE,AFC,AFC North,WR,off_skill,80,8,LSU,SEC,12
+LeCoRi00,Richard LeCounte,CLE,AFC,AFC North,S,def_backs,39,1,Georgia,SEC,1
+MayfBa00,Baker Mayfield,CLE,AFC,AFC North,QB,off_skill,6,4,Oklahoma,Big 12,14
+McDoMa00,Malik McDowell,CLE,AFC,AFC North,DT,def_line,58,1,Michigan St.,Big Ten,14
+McKiTa00,Takkarist McKinley,CLE,AFC,AFC North,OLB,def_lbs,55,5,UCLA,Pac-12,2
+McLaCh00,Chase McLaughlin,CLE,AFC,AFC North,K,spec_teams,3,3,Illinois,Big Ten,0
+MullNi00,Nick Mullens,CLE,AFC,AFC North,QB,off_skill,9,4,Southern Miss,C-USA,1
+NewsGr00,Greg Newsome II,CLE,AFC,AFC North,CB,def_backs,20,1,Northwestern,Big Ten,11
+NjokDa00,David Njoku,CLE,AFC,AFC North,TE,off_skill,85,5,Miami (FL),ACC,11
+OwusJe00,Jeremiah Owusu-Koramoah,CLE,AFC,AFC North,LB,def_lbs,28,1,Notre Dame,Independent,10
+PeopDo00,Donovan Peoples-Jones,CLE,AFC,AFC North,WR,off_skill,11,2,Michigan,Big Ten,9
+PhilJa01,Jacob Phillips,CLE,AFC,AFC North,LB,def_lbs,50,2,LSU,SEC,1
+SchwAn00,Anthony Schwartz,CLE,AFC,AFC North,WR,off_skill,10,1,Auburn,SEC,2
+SmitMa02,Malcolm Smith,CLE,AFC,AFC North,MLB,def_lbs,56,11,USC,Pac-12,6
+StewM.00,M.J. Stewart,CLE,AFC,AFC North,CB,def_backs,36,4,North Carolina,ACC,3
+TakiSi00,Sione Takitaki,CLE,AFC,AFC North,LB,def_lbs,44,3,BYU,Independent,8
+TellWy00,Wyatt Teller,CLE,AFC,AFC North,OG,off_line,77,4,Virginia Tech,ACC,17
+TretJC00,J.C. Tretter,CLE,AFC,AFC North,OG,off_line,64,9,Cornell,FCS,16
+WalkAn01,Anthony Walker,CLE,AFC,AFC North,MLB,def_lbs,4,5,Northwestern,Big Ten,12
+WardDe02,Denzel Ward,CLE,AFC,AFC North,CB,def_backs,21,4,Ohio St.,Big Ten,15
+WillGr00,Greedy Williams,CLE,AFC,AFC North,CB,def_backs,26,3,LSU,SEC,8
+WillJe04,Jedrick Wills Jr.,CLE,AFC,AFC North,OL,off_line,71,2,Alabama,SEC,13
+WilsMa03,Mack Wilson,CLE,AFC,AFC North,LB,def_lbs,51,3,Alabama,SEC,6

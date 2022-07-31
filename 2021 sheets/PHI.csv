@@ -1,0 +1,54 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AndeJa01,Jack Anderson,PHI,NFC,NFC East,G,off_line,76,1,Texas Tech,Big 12,1
+ArceJJ00,JJ Arcega-Whiteside,PHI,NFC,NFC East,WR,off_skill,19,3,Stanford,Pac-12,2
+AverGe00,Genard Avery,PHI,NFC,NFC East,LB,def_lbs,58,4,Memphis,American,12
+BarnDe01,Derek Barnett,PHI,NFC,NFC East,DE,def_line,96,5,Tennessee,SEC,15
+BradSh00,Shaun Bradley,PHI,NFC,NFC East,LB,def_lbs,54,2,Temple,American,1
+BrooBr00,Brandon Brooks,PHI,NFC,NFC East,G,off_line,79,10,Miami (OH),MAC,2
+ChacAn00,Andre Chachere,PHI,NFC,NFC East,CB,def_backs,21,1,San Jose St.,Mountain West,1
+ClarLe01,Le'Raven Clark,PHI,NFC,NFC East,OT,off_line,74,6,Texas Tech,Big 12,1
+CoxxFl00,Fletcher Cox,PHI,NFC,NFC East,DT,def_line,91,10,Mississippi St.,SEC,16
+DickLa00,Landon Dickerson,PHI,NFC,NFC East,OL,off_line,51,1,Alabama,SEC,13
+DillAn00,Andre Dillard,PHI,NFC,NFC East,OL,off_line,77,3,Washington St.,Pac-12,5
+DrisJa00,Jack Driscoll,PHI,NFC,NFC East,OL,off_line,63,2,Auburn,SEC,9
+EdwaTJ02,T.J. Edwards,PHI,NFC,NFC East,LB,def_lbs,57,3,Wisconsin,Big Ten,14
+ElliJa03,Jake Elliott,PHI,NFC,NFC East,K,spec_teams,4,5,Memphis,American,0
+EppsMa00,Marcus Epps,PHI,NFC,NFC East,S,def_backs,22,3,Wyoming,Mountain West,3
+GainKe00,Kenneth Gainwell,PHI,NFC,NFC East,RB,off_skill,14,1,Memphis,American,1
+GoedDa00,Dallas Goedert,PHI,NFC,NFC East,TE,off_skill,88,4,South Dakota St.,FCS,14
+GrahBr99,Brandon Graham,PHI,NFC,NFC East,DE,def_line,55,12,Michigan,Big Ten,2
+HargJa00,Javon Hargrave,PHI,NFC,NFC East,DT,def_line,97,6,South Carolina St.,FCS,16
+HarrAn01,Anthony Harris,PHI,NFC,NFC East,DB,def_backs,28,7,Virginia,ACC,14
+HerbNa01,Nate Herbig,PHI,NFC,NFC East,G,off_line,67,3,Stanford,Pac-12,5
+HurtJa00,Jalen Hurts,PHI,NFC,NFC East,QB,off_skill,1,2,Oklahoma,Big 12,15
+JackTy01,Tyree Jackson,PHI,NFC,NFC East,TE,off_skill,80,1,Buffalo,MAC,3
+JohnLa01,Lane Johnson,PHI,NFC,NFC East,OT,off_line,65,9,Oklahoma,Big 12,13
+JohnPa02,Patrick Johnson,PHI,NFC,NFC East,LB,def_lbs,48,1,Tulane,American,2
+KelcJa00,Jason Kelce,PHI,NFC,NFC East,C,off_line,62,11,Cincinnati,American,17
+KerrRy00,Ryan Kerrigan,PHI,NFC,NFC East,LOLB,def_lbs,90,11,Purdue,Big Ten,2
+MaddAv00,Avonte Maddox,PHI,NFC,NFC East,CB,def_backs,29,4,Pittsburgh,ACC,5
+MailJo00,Jordan Mailata,PHI,NFC,NFC East,T,off_line,68,4,(none),none,14
+McLeRo00,Rodney McLeod,PHI,NFC,NFC East,S,def_backs,23,10,Virginia,ACC,13
+McPhZe00,Zech McPhearson,PHI,NFC,NFC East,CB,def_backs,27,1,Texas Tech,Big 12,1
+MinsGa00,Gardner Minshew II,PHI,NFC,NFC East,QB,off_skill,10,3,Washington St.,Pac-12,2
+NelsSt01,Steven Nelson,PHI,NFC,NFC East,CB,def_backs,3,7,Oregon St.,Pac-12,16
+OpetIo00,Sua Opeta,PHI,NFC,NFC East,G,off_line,78,2,Weber St.,FCS,2
+ReagJa00,Jalen Reagor,PHI,NFC,NFC East,WR,off_skill,18,2,TCU,Big 12,13
+RidgHa00,Hassan Ridgeway,PHI,NFC,NFC East,DT,def_line,98,6,Texas,Big 12,1
+SandMi01,Miles Sanders,PHI,NFC,NFC East,RB,off_skill,26,3,Penn St.,Big Ten,12
+ScotBo02,Boston Scott,PHI,NFC,NFC East,RB,off_skill,35,4,Louisiana Tech,C-USA,4
+SeumIs00,Isaac Seumalo,PHI,NFC,NFC East,OG,off_line,56,6,Oregon St.,Pac-12,3
+SingAl00,Alex Singleton,PHI,NFC,NFC East,LB,def_lbs,49,3,Montana St.,FCS,8
+SipoAr01,Arryn Siposs,PHI,NFC,NFC East,P,spec_teams,8,1,Auburn,SEC,0
+SlayDa00,Darius Slay,PHI,NFC,NFC East,CB,def_backs,2,9,Mississippi St.,SEC,16
+SmitDe07,DeVonta Smith,PHI,NFC,NFC East,WR,off_skill,6,1,Alabama,SEC,16
+StevJa00,JaCoby Stevens,PHI,NFC,NFC East,S,def_backs,30,1,LSU,SEC,1
+StolJa00,Jack Stoll,PHI,NFC,NFC East,TE,off_skill,47,1,Nebraska,Big Ten,5
+SweaJo00,Josh Sweat,PHI,NFC,NFC East,DE,def_line,94,4,Florida St.,ACC,13
+TaylDa01,Davion Taylor,PHI,NFC,NFC East,LB,def_lbs,52,2,Colorado,Pac-12,6
+VincKa00,Kary Vincent Jr.,PHI,NFC,NFC East,CB,def_backs,34,1,LSU,SEC,1
+WallKV00,K'Von Wallace,PHI,NFC,NFC East,S,def_backs,42,2,Clemson,ACC,3
+WatkQu00,Quez Watkins,PHI,NFC,NFC East,WR,off_skill,16,2,Southern Miss,C-USA,12
+WillMi08,Milton Williams,PHI,NFC,NFC East,DT,def_line,93,1,Louisiana Tech,C-USA,2
+WillRa03,Raequan Williams,PHI,NFC,NFC East,DT,def_line,61,2,Michigan St.,Big Ten,1
+WilsEr00,Eric Wilson,PHI,NFC,NFC East,ILB,def_lbs,50,5,Cincinnati,American,2

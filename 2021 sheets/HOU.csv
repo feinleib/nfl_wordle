@@ -1,0 +1,57 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AkinJo00,Jordan Akins,HOU,AFC,AFC South,TE,off_skill,88,4,Central Florida,American,3
+AuclAn00,Antony Auclair,HOU,AFC,AFC South,TE,off_skill,83,5,Laval,Canada,13
+BlacRo00,Ross Blacklock,HOU,AFC,AFC South,DL,def_line,90,2,TCU,Big 12,2
+BritJu00,Justin Britt,HOU,AFC,AFC South,OT,off_line,68,8,Missouri,SEC,11
+BrooTe00,Terrence Brooks,HOU,AFC,AFC South,FS,def_backs,29,8,Florida St.,ACC,3
+BrowPh01,Pharaoh Brown,HOU,AFC,AFC South,TE,off_skill,85,5,Oregon,Pac-12,12
+BurkRe00,Rex Burkhead,HOU,AFC,AFC South,RB,off_skill,28,9,Nebraska,Big Ten,5
+CampJa03,Jalen Camp,HOU,AFC,AFC South,WR,off_skill,17,1,Georgia Tech,ACC,1
+CannMa00,Marcus Cannon,HOU,AFC,AFC South,OL,off_line,61,11,TCU,Big 12,4
+ChriGe01,Geron Christian,HOU,AFC,AFC South,OT,off_line,72,4,Louisville,ACC,8
+CollMa00,Maliek Collins,HOU,AFC,AFC South,DT,def_line,97,6,Nebraska,Big Ten,15
+CollNi00,Nico Collins,HOU,AFC,AFC South,WR,off_skill,12,1,Michigan,Big Ten,8
+ConlCh00,Chris Conley,HOU,AFC,AFC South,WR,off_skill,18,7,Georgia,SEC,10
+CookBr00,Brandin Cooks,HOU,AFC,AFC South,WR,off_skill,13,8,Oregon St.,Pac-12,16
+DaviDa03,Davion Davis,HOU,AFC,AFC South,WR,off_skill,81,3,Sam Houston St.,FCS,1
+DwumMi00,Michael Dwumfour,HOU,AFC,AFC South,DL,def_line,98,1,Rutgers,Big Ten,1
+FairKa01,Ka'imi Fairbairn,HOU,AFC,AFC South,K,spec_teams,7,5,UCLA,Pac-12,0
+GreeJo04,Jonathan Greenard,HOU,AFC,AFC South,DL,def_line,52,2,Florida,SEC,12
+GrugKa00,Kamu Grugier-Hill,HOU,AFC,AFC South,OLB,def_lbs,51,6,Eastern Illinois,FCS,14
+HarrDe06,Demone Harris,HOU,AFC,AFC South,DE,def_line,94,4,Buffalo,MAC,1
+HeckCh00,Charlie Heck,HOU,AFC,AFC South,OL,off_line,67,2,North Carolina,ACC,13
+HewiNe00,Neville Hewitt,HOU,AFC,AFC South,LB,def_lbs,43,7,Marshall,C-USA,5
+HowaTy00,Tytus Howard,HOU,AFC,AFC South,T,off_line,71,3,Alabama St.,FCS,15
+JohnDa08,David Johnson,HOU,AFC,AFC South,RB,off_skill,31,7,Northern Iowa,FCS,4
+JohnLo01,Lonnie Johnson Jr.,HOU,AFC,AFC South,CB,def_backs,1,3,Kentucky,SEC,7
+JohnCa02,Cameron Johnston,HOU,AFC,AFC South,P,spec_teams,11,4,Ohio St.,Big Ten,0
+JordBr00,Brevin Jordan,HOU,AFC,AFC South,TE,off_skill,9,1,Miami (FL),ACC,2
+KingDe01,Desmond King,HOU,AFC,AFC South,FS,def_backs,25,5,Iowa,Big Ten,12
+KirkCh00,Christian Kirksey,HOU,AFC,AFC South,OLB,def_lbs,58,8,Iowa,Big Ten,12
+LindPh00,Phillip Lindsay,HOU,AFC,AFC South,RB,off_skill,30,4,Colorado,Pac-12,1
+LopeRo00,Roy Lopez,HOU,AFC,AFC South,DT,def_line,79,1,Arizona,Pac-12,15
+MartJa02,Jacob Martin,HOU,AFC,AFC South,LB,def_lbs,54,4,Temple,American,14
+McCrJu00,Justin McCray,HOU,AFC,AFC South,G,off_line,64,5,Central Florida,American,8
+MercWh00,Whitney Mercilus,HOU,AFC,AFC South,DE,def_line,59,10,Illinois,Big Ten,2
+MillAn02,Anthony Miller,HOU,AFC,AFC South,WR,off_skill,18,4,Memphis,American,1
+MillDa02,Davis Mills,HOU,AFC,AFC South,QB,off_skill,10,1,Stanford,Pac-12,11
+MitcTe00,Terrance Mitchell,HOU,AFC,AFC South,CB,def_backs,39,8,Oregon,Pac-12,13
+MoorCh00,Chris Moore,HOU,AFC,AFC South,WR,off_skill,15,6,Cincinnati,American,1
+MorrJi00,Jimmy Morrissey,HOU,AFC,AFC South,OL,off_line,79,1,Pittsburgh,ACC,4
+MurrEr00,Eric Murray,HOU,AFC,AFC South,CB,def_backs,23,6,Minnesota,Big Ten,11
+OmenCh00,Charles Omenihu,HOU,AFC,AFC South,DL,def_line,94,3,Texas,Big 12,2
+OwenJo01,Jonathan Owens,HOU,AFC,AFC South,S,def_backs,36,3,Missouri Western St.,D2,2
+PierKe00,Kevin Pierre-Louis,HOU,AFC,AFC South,OLB,def_lbs,57,8,Boston Col.,ACC,1
+ReidJu00,Justin Reid,HOU,AFC,AFC South,FS,def_backs,20,4,Stanford,Pac-12,13
+RiveDe00,Derek Rivers,HOU,AFC,AFC South,DE,def_line,95,4,Youngstown St.,FCS,1
+SchaMa01,Max Scharping,HOU,AFC,AFC South,OT,off_line,74,3,Northern Illinois,MAC,11
+SmitTr04,Tremon Smith,HOU,AFC,AFC South,DB,def_backs,24,4,Central Arkansas,FCS,2
+TaylLa01,Lane Taylor,HOU,AFC,AFC South,G,off_line,65,9,Oklahoma St.,Big 12,5
+TaylTy00,Tyrod Taylor,HOU,AFC,AFC South,QB,off_skill,5,11,Virginia Tech,ACC,6
+TaylVi00,Vincent Taylor,HOU,AFC,AFC South,DT,def_line,96,5,Oklahoma St.,Big 12,1
+ThomJo04,Joe Thomas,HOU,AFC,AFC South,LB,def_lbs,48,8,South Carolina St.,FCS,2
+ThomTa01,Tavierre Thomas,HOU,AFC,AFC South,DB,def_backs,37,4,Ferris St.,D2,8
+ToneCo00,Cole Toner,HOU,AFC,AFC South,OT,off_line,66,6,Harvard,FCS,1
+TunsLa00,Laremy Tunsil,HOU,AFC,AFC South,OT,off_line,78,6,Mississippi,SEC,5
+WalkDe03,DeMarcus Walker,HOU,AFC,AFC South,DE,def_line,44,5,Florida St.,ACC,2
+WallGa00,Garret Wallow,HOU,AFC,AFC South,LB,def_lbs,32,1,TCU,Big 12,2

@@ -1,0 +1,51 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdenHa00,Hakeem Adeniji,CIN,AFC,AFC North,OL,off_line,77,2,Kansas,Big 12,9
+AlleBr00,Brandon Allen,CIN,AFC,AFC North,QB,off_skill,8,4,Arkansas,SEC,1
+AlleRi00,Ricardo Allen,CIN,AFC,AFC North,CB,def_backs,37,8,Purdue,Big Ten,1
+ApplEl00,Eli Apple,CIN,AFC,AFC North,CB,def_backs,20,6,Ohio St.,Big Ten,15
+AwuzCh00,Chidobe Awuzie,CIN,AFC,AFC North,CB,def_backs,22,5,Colorado,Pac-12,14
+BachJo01,Joe Bachie,CIN,AFC,AFC North,LB,def_lbs,49,2,Michigan St.,Big Ten,2
+BailMa01,Markus Bailey,CIN,AFC,AFC North,LB,def_lbs,51,2,Purdue,Big Ten,3
+BateJe00,Jessie Bates III,CIN,AFC,AFC North,FS,def_backs,30,4,Wake Forest,ACC,15
+BellVo00,Vonn Bell,CIN,AFC,AFC North,SS,def_backs,24,6,Ohio St.,Big Ten,16
+BoydTy00,Tyler Boyd,CIN,AFC,AFC North,WR,off_skill,83,6,Pittsburgh,ACC,10
+BurrJo01,Joe Burrow,CIN,AFC,AFC North,QB,off_skill,9,2,LSU,SEC,16
+CarmJa00,Jackson Carman,CIN,AFC,AFC North,G,off_line,79,1,Clemson,ACC,6
+ChasJa00,Ja'Marr Chase,CIN,AFC,AFC North,WR,off_skill,1,1,LSU,SEC,17
+DaniMi00,Mike Daniels,CIN,AFC,AFC North,DT,def_line,76,10,Iowa,Big Ten,1
+EvanCh02,Chris Evans,CIN,AFC,AFC North,RB,off_skill,25,1,Michigan,Big Ten,1
+FlowTr01,Tre Flowers,CIN,AFC,AFC North,SS,def_backs,33,4,Oklahoma St.,Big 12,1
+HargVe00,Vernon Hargreaves III,CIN,AFC,AFC North,CB,def_backs,29,6,Florida,SEC,1
+HendTr00,Trey Hendrickson,CIN,AFC,AFC North,DE,def_line,91,5,Florida Atlantic,C-USA,14
+HiggTe00,Tee Higgins,CIN,AFC,AFC North,WR,off_skill,85,2,Clemson,ACC,14
+HillB.00,B.J. Hill,CIN,AFC,AFC North,DT,def_line,92,4,North Carolina St.,ACC,2
+HillTr03,Trey Hill,CIN,AFC,AFC North,C,off_line,63,1,Georgia,SEC,3
+HiltMi01,Mike Hilton,CIN,AFC,AFC North,CB,def_backs,21,5,Mississippi,SEC,9
+HopkTr01,Trey Hopkins,CIN,AFC,AFC North,G,off_line,66,8,Texas,Big 12,15
+HubbSa00,Sam Hubbard,CIN,AFC,AFC North,DE,def_line,94,4,Ohio St.,Big Ten,16
+HubeKe20,Kevin Huber,CIN,AFC,AFC North,P,spec_teams,10,13,Cincinnati,American,0
+JohnFr01,Fred Johnson,CIN,AFC,AFC North,G,off_line,74,3,Florida,SEC,1
+JohnCl00,Clay Johnston,CIN,AFC,AFC North,LB,def_lbs,44,2,Baylor,Big 12,1
+KareKh00,Khalid Kareem,CIN,AFC,AFC North,DL,def_line,90,2,Notre Dame,Independent,1
+McPhEv00,Evan McPherson,CIN,AFC,AFC North,K,spec_teams,2,1,Florida,SEC,0
+MixoJo00,Joe Mixon,CIN,AFC,AFC North,RB,off_skill,28,5,Oklahoma,Big 12,16
+MorgSt02,Stanley Morgan Jr.,CIN,AFC,AFC North,WR,off_skill,17,3,Nebraska,Big Ten,1
+OgunLa00,Larry Ogunjobi,CIN,AFC,AFC North,DT,def_line,65,5,Charlotte,C-USA,16
+PratGe00,Germaine Pratt,CIN,AFC,AFC North,LB,def_lbs,57,3,North Carolina St.,ACC,15
+PrinIs00,Isaiah Prince,CIN,AFC,AFC North,OL,off_line,75,3,Ohio St.,Big Ten,4
+RayxWy01,Wyatt Ray,CIN,AFC,AFC North,DE,def_line,93,2,Boston Col.,ACC,1
+ReadD.00,D.J. Reader,CIN,AFC,AFC North,DT,def_line,98,6,Clemson,ACC,15
+ReifRi00,Riley Reiff,CIN,AFC,AFC North,OT,off_line,71,10,Iowa,Big Ten,12
+SampDr00,Drew Sample,CIN,AFC,AFC North,TE,off_skill,89,3,Washington,Pac-12,8
+SmitDA03,D'Ante Smith,CIN,AFC,AFC North,T,off_line,70,1,East Carolina,American,1
+SpaiQu00,Quinton Spain,CIN,AFC,AFC North,OG,off_line,67,7,West Virginia,Big 12,16
+Sua-Xa00,Xavier Su'a-Filo,CIN,AFC,AFC North,OG,off_line,72,8,UCLA,Pac-12,2
+ThomMi02,Michael Thomas,CIN,AFC,AFC North,S,def_backs,31,9,Stanford,Pac-12,1
+ThomMi04,Mike Thomas,CIN,AFC,AFC North,WR,off_skill,80,6,Southern Miss,C-USA,1
+TupoJo00,Josh Tupou,CIN,AFC,AFC North,DT,def_line,68,5,Colorado,Pac-12,9
+UzomC.00,C.J. Uzomah,CIN,AFC,AFC North,TE,off_skill,87,7,Auburn,SEC,16
+WaynTr00,Trae Waynes,CIN,AFC,AFC North,CB,def_backs,26,7,Michigan St.,Big Ten,4
+WilcMi01,Mitchell Wilcox,CIN,AFC,AFC North,TE,off_skill,84,1,South Florida,American,1
+WillJo10,Jonah Williams,CIN,AFC,AFC North,OL,off_line,73,2,Alabama,SEC,16
+WilsBr01,Brandon Wilson,CIN,AFC,AFC North,CB,def_backs,40,5,Houston,American,1
+WilsLo00,Logan Wilson,CIN,AFC,AFC North,LB,def_lbs,55,2,Wyoming,Mountain West,13

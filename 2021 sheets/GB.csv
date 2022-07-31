@@ -1,0 +1,44 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdamDa01,Davante Adams,GB,NFC,NFC North,WR,off_skill,17,8,Fresno St.,Mountain West,16
+AlexJa00,Jaire Alexander,GB,NFC,NFC North,CB,def_backs,23,4,Louisville,ACC,4
+AmosAd00,Adrian Amos,GB,NFC,NFC North,FS,def_backs,31,7,Penn St.,Big Ten,17
+BakhDa00,David Bakhtiari,GB,NFC,NFC North,OT,off_line,69,9,Colorado,Pac-12,1
+BarnKr00,Krys Barnes,GB,NFC,NFC North,LB,def_lbs,51,2,UCLA,Pac-12,13
+BojoCo00,Corey Bojorquez,GB,NFC,NFC North,P,spec_teams,7,4,New Mexico,Mountain West,0
+BurkOr00,Oren Burks,GB,NFC,NFC North,ILB,def_lbs,42,4,Vanderbilt,SEC,3
+CampDe00,De'Vondre Campbell,GB,NFC,NFC North,OLB,def_lbs,59,6,Minnesota,Big Ten,16
+ClarKe01,Kenny Clark,GB,NFC,NFC North,DT,def_line,97,6,UCLA,Pac-12,16
+CobbRa00,Randall Cobb,GB,NFC,NFC North,WR,off_skill,18,11,Kentucky,SEC,3
+CrosMa20,Mason Crosby,GB,NFC,NFC North,K,spec_teams,2,15,Colorado,Pac-12,0
+DafnDo00,Dominique Dafney,GB,NFC,NFC North,TE,off_skill,49,2,Indiana St.,FCS,2
+DeguJo00,Josiah Deguara,GB,NFC,NFC North,TE,off_skill,81,2,Cincinnati,American,2
+DillAJ00,AJ Dillon,GB,NFC,NFC North,RB,off_skill,28,2,Boston Col.,ACC,2
+DougRa00,Rasul Douglas,GB,NFC,NFC North,CB,def_backs,29,5,West Virginia,Big 12,9
+GarvJo00,Jonathan Garvin,GB,NFC,NFC North,DL,def_line,53,2,Miami (FL),ACC,1
+GaryRa00,Rashan Gary,GB,NFC,NFC North,DL,def_line,52,3,Michigan,Big Ten,16
+JenkEl00,Elgton Jenkins,GB,NFC,NFC North,OL,off_line,74,3,Mississippi St.,SEC,8
+JoneAa00,Aaron Jones,GB,NFC,NFC North,RB,off_skill,33,5,Texas-El Paso,C-USA,15
+KekeKi00,Kingsley Keke,GB,NFC,NFC North,DL,def_line,96,3,Texas A&M,SEC,8
+KellDe00,Dennis Kelly,GB,NFC,NFC North,OT,off_line,79,10,Purdue,Big Ten,4
+KingKe01,Kevin King,GB,NFC,NFC North,CB,def_backs,20,5,Washington,Pac-12,6
+LancTy00,Tyler Lancaster,GB,NFC,NFC North,DL,def_line,95,4,Northwestern,Big Ten,3
+LazaAl00,Allen Lazard,GB,NFC,NFC North,WR,off_skill,13,4,Iowa St.,Big 12,13
+LewiMa00,Marcedes Lewis,GB,NFC,NFC North,TE,off_skill,89,16,UCLA,Pac-12,17
+LoveJo03,Jordan Love,GB,NFC,NFC North,QB,off_skill,10,1,Utah St.,Mountain West,1
+LowrDe00,Dean Lowry,GB,NFC,NFC North,DE,def_line,94,6,Northwestern,Big Ten,17
+MyerJo00,Josh Myers,GB,NFC,NFC North,OL,off_line,71,1,Ohio St.,Big Ten,6
+NewmRo00,Royce Newman,GB,NFC,NFC North,OL,off_line,70,1,Mississippi,SEC,16
+NijmYo01,Yosuah Nijman,GB,NFC,NFC North,OL,off_line,73,2,Virginia Tech,ACC,8
+PatrLu00,Lucas Patrick,GB,NFC,NFC North,G,off_line,62,5,Duke,ACC,13
+RodgAa00,Aaron Rodgers,GB,NFC,NFC North,QB,off_skill,12,17,California,Pac-12,16
+RodgAm00,Amari Rodgers,GB,NFC,NFC North,WR,off_skill,8,1,Clemson,ACC,1
+RunyJo00,Jon Runyan,GB,NFC,NFC North,OL,off_line,76,2,Michigan,Big Ten,16
+SavaDa00,Darnell Savage Jr.,GB,NFC,NFC North,S,def_backs,26,3,Maryland,Big Ten,17
+SmitPr00,Preston Smith,GB,NFC,NFC North,DE,def_line,91,7,Mississippi St.,SEC,16
+St.BEq00,Equanimeous St. Brown,GB,NFC,NFC North,WR,off_skill,19,4,Notre Dame,Independent,2
+StokEr00,Eric Stokes,GB,NFC,NFC North,CB,def_backs,21,1,Georgia,SEC,14
+SullCh00,Chandon Sullivan,GB,NFC,NFC North,CB,def_backs,39,4,Georgia St.,Sun Belt,10
+TonyRo00,Robert Tonyan,GB,NFC,NFC North,TE,off_skill,85,4,Indiana St.,FCS,5
+TurnBi00,Billy Turner,GB,NFC,NFC North,OT,off_line,77,8,North Dakota St.,FCS,13
+ValdMa00,Marquez Valdes-Scantling,GB,NFC,NFC North,WR,off_skill,83,4,South Florida,American,7
+YiadIs00,Isaac Yiadom,GB,NFC,NFC North,CB,def_backs,24,4,Boston Col.,ACC,1

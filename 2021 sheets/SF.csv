@@ -1,0 +1,48 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AiyuBr00,Brandon Aiyuk,SF,NFC,NFC West,WR,off_skill,11,2,Arizona St.,Pac-12,16
+AlShAz00,Azeez Al-Shaair,SF,NFC,NFC West,LB,def_lbs,51,3,Florida Atlantic,C-USA,13
+ArmsAr01,Arik Armstead,SF,NFC,NFC West,DE,def_line,91,7,Oregon,Pac-12,17
+BosaNi00,Nick Bosa,SF,NFC,NFC West,EDGE,def_line,97,3,Ohio St.,Big Ten,17
+BrunDa00,Daniel Brunskill,SF,NFC,NFC West,OT,off_line,60,4,San Diego St.,Mountain West,17
+CompTo00,Tom Compton,SF,NFC,NFC West,T,off_line,66,10,South Dakota,FCS,7
+DwelRo00,Ross Dwelley,SF,NFC,NFC West,TE,off_skill,82,4,San Diego,FCS,2
+EbukSa00,Samson Ebukam,SF,NFC,NFC West,OLB,def_lbs,56,5,East. Washington,FCS,11
+FlanDe00,Demetrius Flannigan-Fowles,SF,NFC,NFC West,DB,def_backs,45,2,Arizona,Pac-12,2
+GaroJi00,Jimmy Garoppolo,SF,NFC,NFC West,QB,off_skill,10,8,Eastern Illinois,FCS,15
+gouldrob01,Robbie Gould,SF,NFC,NFC West,K,spec_teams,9,17,Penn St.,Big Ten,0
+GreeDr00,Dre Greenlaw,SF,NFC,NFC West,LB,def_lbs,57,3,Arkansas,SEC,2
+HarrMa03,Marcell Harris,SF,NFC,NFC West,S,def_backs,36,4,Florida,SEC,7
+HufaTa00,Talanoa Hufanga,SF,NFC,NFC West,S,def_backs,29,1,USC,Pac-12,3
+JennJa00,Jauan Jennings,SF,NFC,NFC West,WR,off_skill,15,1,Tennessee,SEC,1
+JohnDo02,Dontae Johnson,SF,NFC,NFC West,FS,def_backs,27,8,North Carolina St.,ACC,3
+JoneD.01,D.J. Jones,SF,NFC,NFC West,DT,def_line,93,5,Mississippi,SEC,17
+JuszKy00,Kyle Juszczyk,SF,NFC,NFC West,FB,off_skill,44,9,Harvard,FCS,16
+KinlJa00,Javon Kinlaw,SF,NFC,NFC West,DL,def_line,99,2,South Carolina,SEC,4
+KirkDr00,Dre Kirkpatrick,SF,NFC,NFC West,CB,def_backs,13,10,Alabama,SEC,1
+KittGe00,George Kittle,SF,NFC,NFC West,TE,off_skill,85,5,Iowa,Big Ten,14
+LancTr00,Trey Lance,SF,NFC,NFC West,QB,off_skill,5,1,North Dakota St.,FCS,2
+LenoDe00,Deommodore Lenoir,SF,NFC,NFC West,DB,def_backs,38,1,Oregon,Pac-12,2
+MackAl20,Alex Mack,SF,NFC,NFC West,C,off_line,50,13,California,Pac-12,17
+McGlMi00,Mike McGlinchey,SF,NFC,NFC West,OT,off_line,69,4,Notre Dame,Independent,8
+McKiCo00,Colton McKivitz,SF,NFC,NFC West,OL,off_line,68,2,West Virginia,Big 12,1
+MitcEl00,Elijah Mitchell,SF,NFC,NFC West,RB,off_skill,25,1,Louisiana,Sun Belt,10
+MoorJa04,Jaylon Moore,SF,NFC,NFC West,OL,off_line,76,1,Western Michigan,MAC,3
+MoseEm00,Emmanuel Moseley,SF,NFC,NFC West,CB,def_backs,4,4,Tennessee,SEC,11
+MostRa00,Raheem Mostert,SF,NFC,NFC West,RB,off_skill,31,7,Purdue,Big Ten,1
+NormJo01,Josh Norman,SF,NFC,NFC West,CB,def_backs,26,10,Coastal Carolina,Sun Belt,14
+SamuDe00,Deebo Samuel,SF,NFC,NFC West,WR,off_skill,19,3,South Carolina,SEC,15
+SermTr00,Trey Sermon,SF,NFC,NFC West,RB,off_skill,28,1,Ohio St.,Big Ten,2
+SherTr00,Trent Sherfield,SF,NFC,NFC West,WR,off_skill,81,4,Vanderbilt,SEC,1
+StreKe00,Kentavius Street,SF,NFC,NFC West,DT,def_line,95,4,North Carolina St.,ACC,2
+TartJa00,Jaquiski Tartt,SF,NFC,NFC West,SS,def_backs,26,7,Samford,FCS,14
+ThomAm00,Ambry Thomas,SF,NFC,NFC West,CB,def_backs,20,1,Michigan,Big Ten,5
+TomlLa01,Laken Tomlinson,SF,NFC,NFC West,OG,off_line,75,7,Duke,ACC,17
+VerrJa00,Jason Verrett,SF,NFC,NFC West,CB,def_backs,2,8,TCU,Big 12,1
+WardJi01,Jimmie Ward,SF,NFC,NFC West,SS,def_backs,1,8,Northern Illinois,MAC,16
+WarnFr00,Fred Warner,SF,NFC,NFC West,OLB,def_lbs,54,4,BYU,Independent,16
+WillKW00,K'Waun Williams,SF,NFC,NFC West,DB,def_backs,24,8,Pittsburgh,ACC,8
+WillTr21,Trent Williams,SF,NFC,NFC West,T,off_line,71,12,Oklahoma,Big 12,15
+WilsJe01,Jeff Wilson,SF,NFC,NFC West,RB,off_skill,22,4,North Texas,C-USA,4
+WilsTa00,Tavon Wilson,SF,NFC,NFC West,FS,def_backs,32,10,Illinois,Big Ten,1
+WishMi00,Mitch Wishnowsky,SF,NFC,NFC West,P,spec_teams,18,3,Utah,Pac-12,0
+WoerCh00,Charlie Woerner,SF,NFC,NFC West,TE,off_skill,89,2,Georgia,SEC,3

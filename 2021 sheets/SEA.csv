@@ -1,0 +1,47 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdamJa00,Jamal Adams,SEA,NFC,NFC West,SS,def_backs,33,5,LSU,SEC,12
+AmadUg00,Ugo Amadi,SEA,NFC,NFC West,S,def_backs,28,3,Oregon,Pac-12,7
+AustBl00,Blessuan Austin,SEA,NFC,NFC West,CB,def_backs,31,3,Rutgers,Big Ten,1
+BartCo00,Cody Barton,SEA,NFC,NFC West,LB,def_lbs,57,3,Utah,Pac-12,1
+BrooJo01,Jordyn Brooks,SEA,NFC,NFC West,LB,def_lbs,56,2,Texas Tech,Big 12,17
+BrowDu20,Duane Brown,SEA,NFC,NFC West,LT,off_line,76,14,Virginia Tech,ACC,17
+BrowTr03,Tre Brown,SEA,NFC,NFC West,CB,def_backs,22,1,Oklahoma,Big 12,3
+CarsCh00,Chris Carson,SEA,NFC,NFC West,RB,off_skill,32,5,Oklahoma St.,Big 12,4
+CollAl00,Alex Collins,SEA,NFC,NFC West,RB,off_skill,41,6,Arkansas,SEC,6
+CurhJa00,Jake Curhan,SEA,NFC,NFC West,T,off_line,74,1,California,Pac-12,5
+DickMi00,Michael Dickson,SEA,NFC,NFC West,P,spec_teams,4,4,Texas,Big 12,0
+DiggQu00,Quandre Diggs,SEA,NFC,NFC West,CB,def_backs,6,7,Texas,Big 12,17
+DissWi00,Will Dissly,SEA,NFC,NFC West,TE,off_skill,89,4,Washington,Pac-12,14
+DunlCa99,Carlos Dunlap,SEA,NFC,NFC West,DE,def_line,8,12,Florida,SEC,2
+EverGe00,Gerald Everett,SEA,NFC,NFC West,TE,off_skill,81,5,South Alabama,Sun Belt,12
+FordPo00,Poona Ford,SEA,NFC,NFC West,DT,def_line,97,4,Texas,Big 12,17
+FullKy01,Kyle Fuller,SEA,NFC,NFC West,C,off_line,61,5,Baylor,Big 12,9
+GreeRa01,Rasheem Green,SEA,NFC,NFC West,DT,def_line,94,4,USC,Pac-12,16
+HaynPh00,Phil Haynes,SEA,NFC,NFC West,OL,off_line,60,3,Wake Forest,ACC,2
+HydeKe01,Kerry Hyder,SEA,NFC,NFC West,DT,def_line,51,8,Texas Tech,Big 12,7
+JackGa00,Gabe Jackson,SEA,NFC,NFC West,OG,off_line,66,8,Mississippi St.,SEC,16
+JoneJa08,Jamarco Jones,SEA,NFC,NFC West,OT,off_line,73,4,Ohio St.,Big Ten,2
+JoneJo06,Josh Jones,SEA,NFC,NFC West,S,def_backs,42,5,North Carolina St.,ACC,1
+JoneSi00,Sidney Jones,SEA,NFC,NFC West,CB,def_backs,23,5,Washington,Pac-12,11
+LewiDa05,Damien Lewis,SEA,NFC,NFC West,OL,off_line,68,2,LSU,SEC,13
+LockTy00,Tyler Lockett,SEA,NFC,NFC West,WR,off_skill,16,7,Kansas St.,Big 12,16
+MayoBe00,Benson Mayowa,SEA,NFC,NFC West,DE,def_line,10,9,Idaho,FCS,7
+MetcDK00,D.K. Metcalf,SEA,NFC,NFC West,WR,off_skill,14,3,Mississippi,SEC,17
+MoneBr00,Bryan Mone,SEA,NFC,NFC West,DT,def_line,90,3,Michigan,Big Ten,5
+MyerJa00,Jason Myers,SEA,NFC,NFC West,K,spec_teams,5,7,Marist,FCS,0
+NealRy00,Ryan Neal,SEA,NFC,NFC West,DB,def_backs,26,4,Southern Illinois,FCS,5
+OgbuCe00,Cedric Ogbuehi,SEA,NFC,NFC West,OT,off_line,70,7,Texas A&M,SEC,1
+ParkCo02,Colby Parkinson,SEA,NFC,NFC West,TE,off_skill,84,2,Stanford,Pac-12,1
+PennRa00,Rashaad Penny,SEA,NFC,NFC West,RB,off_skill,20,4,San Diego St.,Mountain West,6
+PeteAd01,Adrian Peterson,SEA,NFC,NFC West,RB,off_skill,21,15,Oklahoma,Big 12,1
+PociEt00,Ethan Pocic,SEA,NFC,NFC West,C,off_line,77,5,LSU,SEC,10
+ReedD.00,D.J. Reed,SEA,NFC,NFC West,CB,def_backs,2,4,Kansas St.,Big 12,14
+ReidJo00,John Reid,SEA,NFC,NFC West,CB,def_backs,29,2,Penn St.,Big Ten,2
+RobiAl03,Alton Robinson,SEA,NFC,NFC West,DL,def_line,98,2,Syracuse,ACC,2
+ShelBr00,Brandon Shell,SEA,NFC,NFC West,OT,off_line,72,6,South Carolina,SEC,10
+SmitGe00,Geno Smith,SEA,NFC,NFC West,QB,off_skill,7,9,West Virginia,Big 12,3
+SwaiFr00,Freddie Swain,SEA,NFC,NFC West,WR,off_skill,18,2,Florida,SEC,8
+TaylDa00,Darrell Taylor,SEA,NFC,NFC West,DE,def_line,52,1,Tennessee,SEC,5
+WagnBo00,Bobby Wagner,SEA,NFC,NFC West,ILB,def_lbs,54,10,Utah St.,Mountain West,16
+WilsRu00,Russell Wilson,SEA,NFC,NFC West,QB,off_skill,3,10,Wisconsin,Big Ten,14
+WoodAl99,Al Woods,SEA,NFC,NFC West,DT,def_line,93,12,LSU,SEC,16

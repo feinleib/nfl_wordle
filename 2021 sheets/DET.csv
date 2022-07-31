@@ -1,0 +1,58 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AlliGe01,Geronimo Allison,DET,NFC,NFC North,WR,off_skill,13,6,Illinois,Big Ten,1
+AnzaAl00,Alex Anzalone,DET,NFC,NFC North,OLB,def_lbs,34,5,Florida,SEC,14
+BarnDe02,Derrick Barnes,DET,NFC,NFC North,LB,def_lbs,55,1,Purdue,Big Ten,6
+BensTr00,Trinity Benson,DET,NFC,NFC North,WR,off_skill,17,1,East Central (OK),D2,2
+BoylTi00,Tim Boyle,DET,NFC,NFC North,QB,off_skill,12,4,East. Kentucky,FCS,3
+BrocMi00,Michael Brockers,DET,NFC,NFC North,DT,def_line,91,10,LSU,SEC,16
+BrowEv00,Evan Brown,DET,NFC,NFC North,C,off_line,63,4,SMU,American,12
+BryaAu00,Austin Bryant,DET,NFC,NFC North,EDGE,def_line,2,3,Clemson,ACC,5
+CabiJa00,Jason Cabinda,DET,NFC,NFC North,ILB,def_lbs,45,4,Penn St.,Big Ten,4
+CephQu00,Quintez Cephus,DET,NFC,NFC North,WR,off_skill,87,2,Wisconsin,Big Ten,3
+DeckTa00,Taylor Decker,DET,NFC,NFC North,OT,off_line,68,6,Ohio St.,Big Ten,9
+ElliJa05,Jalen Elliott,DET,NFC,NFC North,DB,def_backs,42,1,Notre Dame,Independent,1
+FellDa01,Darren Fells,DET,NFC,NFC North,TE,off_skill,80,9,UC Irvine,FCS,5
+FlowTr00,Trey Flowers,DET,NFC,NFC North,DE,def_line,90,7,Arkansas,SEC,7
+FoxxJa01,Jack Fox,DET,NFC,NFC North,P,spec_teams,3,2,Rice,C-USA,0
+GoffJa00,Jared Goff,DET,NFC,NFC North,QB,off_skill,16,6,California,Pac-12,14
+HarrCh03,Charles Harris,DET,NFC,NFC North,DE,def_line,53,5,Missouri,SEC,14
+HarrWi02,Will Harris,DET,NFC,NFC North,S,def_backs,25,3,Boston Col.,ACC,17
+HockTJ00,T.J. Hockenson,DET,NFC,NFC North,TE,off_skill,88,3,Iowa,Big Ten,12
+HodgKh00,KhaDarel Hodge,DET,NFC,NFC North,WR,off_skill,18,4,Prairie View A&M,FCS,1
+HoldWi00,Will Holden,DET,NFC,NFC North,OT,off_line,69,5,Vanderbilt,SEC,1
+IgweGo00,Godwin Igwebuike,DET,NFC,NFC North,RB,off_skill,35,4,Northwestern,Big Ten,1
+JackJo03,Jonah Jackson,DET,NFC,NFC North,OL,off_line,73,2,Ohio St.,Big Ten,16
+JacoJe00,Jerry Jacobs,DET,NFC,NFC North,CB,def_backs,39,1,Arkansas,SEC,9
+KraeTo02,Tommy Kraemer,DET,NFC,NFC North,G,off_line,78,1,Notre Dame,Independent,3
+LemoJe00,Jessie Lemonier,DET,NFC,NFC North,DE,def_line,52,2,Liberty,Independent,2
+MarlDe00,Dean Marlowe,DET,NFC,NFC North,S,def_backs,31,7,James Madison,FCS,9
+McCoRy00,Ryan McCollum,DET,NFC,NFC North,OL,off_line,74,1,Texas A&M,SEC,1
+McNeAl00,Alim McNeill,DET,NFC,NFC North,NT,def_line,54,1,North Carolina St.,ACC,6
+MeliIf00,Ifeatu Melifonwu,DET,NFC,NFC North,CB,def_backs,26,1,Syracuse,ACC,4
+MoorCJ01,C.J. Moore,DET,NFC,NFC North,DB,def_backs,38,3,Mississippi,SEC,1
+NelsMa00,Matt Nelson,DET,NFC,NFC North,T,off_line,67,2,Iowa,Big Ten,11
+OkudJe00,Jeff Okudah,DET,NFC,NFC North,CB,def_backs,1,2,Ohio St.,Big Ten,1
+OkwaJu00,Julian Okwara,DET,NFC,NFC North,DL,def_line,99,2,Notre Dame,Independent,1
+OkwaRo01,Romeo Okwara,DET,NFC,NFC North,DE,def_line,95,6,Notre Dame,Independent,4
+OruwAm00,Amani Oruwariye,DET,NFC,NFC North,CB,def_backs,24,3,Penn St.,Big Ten,14
+ParkAJ00,AJ Parker,DET,NFC,NFC North,CB,def_backs,41,1,Kansas St.,Big 12,7
+PattRi01,Riley Patterson,DET,NFC,NFC North,K,spec_teams,6,1,Memphis,American,0
+PinkJa02,Jared Pinkney,DET,NFC,NFC North,TE,off_skill,80,1,Vanderbilt,SEC,1
+PittAn01,Anthony Pittman,DET,NFC,NFC North,LB,def_lbs,57,3,Wayne State (MI),D2,1
+PricBo00,Bobby Price,DET,NFC,NFC North,DB,def_backs,27,2,Norfolk St.,FCS,2
+RagnFr00,Frank Ragnow,DET,NFC,NFC North,C,off_line,77,4,Arkansas,SEC,4
+RaymKa00,Kalif Raymond,DET,NFC,NFC North,WR,off_skill,11,6,Holy Cross,FCS,14
+ReevJa00,Jalen Reeves-Maybin,DET,NFC,NFC North,OLB,def_lbs,44,5,Tennessee,SEC,11
+ReynCr00,Craig Reynolds,DET,NFC,NFC North,RB,off_skill,46,3,Kutztown (PA),D2,2
+ReynJo00,Josh Reynolds,DET,NFC,NFC North,WR,off_skill,8,5,Texas A&M,SEC,5
+SewePe00,Penei Sewell,DET,NFC,NFC North,T,off_line,58,1,Oregon,Pac-12,16
+StxxAm00,Amon-Ra St. Brown,DET,NFC,NFC North,WR,off_skill,14,1,USC,Pac-12,9
+SwifDA00,D'Andre Swift,DET,NFC,NFC North,RB,off_skill,32,2,Georgia,SEC,4
+TravRo00,Ross Travis,DET,NFC,NFC North,TE,off_skill,86,6,Penn St.,Big Ten,1
+VaitHa00,Halapoulivaati Vaitai,DET,NFC,NFC North,OT,off_line,72,6,TCU,Big 12,15
+WalkTr01,Tracy Walker,DET,NFC,NFC North,S,def_backs,21,4,Louisiana,Sun Belt,15
+WillJa06,Jamaal Williams,DET,NFC,NFC North,RB,off_skill,30,5,BYU,Independent,11
+WillNi01,Nick Williams,DET,NFC,NFC North,DT,def_line,97,8,Samford,FCS,17
+WillTy00,Tyrell Williams,DET,NFC,NFC North,WR,off_skill,6,7,Western Oregon,D2,1
+WoodJo02,Josh Woods,DET,NFC,NFC North,LB,def_lbs,51,3,Maryland,Big Ten,1
+WrigBr01,Brock Wright,DET,NFC,NFC North,TE,off_skill,89,1,Notre Dame,Independent,5

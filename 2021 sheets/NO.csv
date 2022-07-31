@@ -1,0 +1,60 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AdebPa00,Paulson Adebo,NO,NFC,NFC South,CB,def_backs,29,1,Stanford,Pac-12,17
+AlexKw00,Kwon Alexander,NO,NFC,NFC South,OLB,def_lbs,5,7,LSU,SEC,8
+ArmaAl00,Alex Armah,NO,NFC,NFC South,FB,off_skill,40,5,West Georgia,D2,2
+ArmsTe00,Terron Armstead,NO,NFC,NFC South,OT,off_line,72,9,Ark-Pine Bluff,FCS,8
+BaunZa00,Zack Baun,NO,NFC,NFC South,LB,def_lbs,53,2,Wisconsin,Big Ten,4
+BeneCa00,Caleb Benenoch,NO,NFC,NFC South,OT,off_line,65,6,UCLA,Pac-12,1
+BookIa00,Ian Book,NO,NFC,NFC South,QB,off_skill,16,1,Notre Dame,Independent,1
+CallMa01,Marquez Callaway,NO,NFC,NFC South,WR,off_skill,1,2,Tennessee,SEC,11
+CarpJa00,James Carpenter,NO,NFC,NFC South,LG,off_line,77,11,Alabama,SEC,1
+ClapWi00,Will Clapp,NO,NFC,NFC South,C,off_line,64,4,LSU,SEC,3
+DaveMa00,Marcus Davenport,NO,NFC,NFC South,DE,def_line,92,4,Texas-San Antonio,C-USA,9
+DaviDe00,Demario Davis,NO,NFC,NFC South,OLB,def_lbs,56,10,Arkansas St.,Sun Belt,16
+ElliKa00,Kaden Elliss,NO,NFC,NFC South,LB,def_lbs,55,3,Idaho,FCS,1
+GardCh00,Chauncey Gardner-Johnson,NO,NFC,NFC South,S,def_backs,22,3,Florida,SEC,11
+GillBl00,Blake Gillikin,NO,NFC,NFC South,P,spec_teams,4,1,Penn St.,Big Ten,0
+GranCa01,Carl Granderson,NO,NFC,NFC South,DE,def_line,96,3,Wyoming,Mountain West,3
+GrifGa00,Garrett Griffin,NO,NFC,NFC South,TE,off_skill,45,5,Air Force,Mountain West,6
+HarrDe07,Deonte Harris,NO,NFC,NFC South,WR,off_skill,11,3,Assumption,D2,1
+HillTa00,Taysom Hill,NO,NFC,NFC South,QB,off_skill,7,5,BYU,Independent,9
+HogaCh00,Chris Hogan,NO,NFC,NFC South,WR,off_skill,80,11,Monmouth,FCS,1
+HolmJa01,Jalyn Holmes,NO,NFC,NFC South,DE,def_line,57,4,Ohio St.,Big Ten,1
+HuggAl01,Albert Huggins,NO,NFC,NFC South,DL,def_line,60,3,Clemson,ACC,1
+HumpLi01,Lil'Jordan Humphrey,NO,NFC,NFC South,WR,off_skill,84,3,Texas,Big 12,4
+HursJa00,James Hurst,NO,NFC,NFC South,OT,off_line,74,8,North Carolina,ACC,15
+IngrMa01,Mark Ingram,NO,NFC,NFC South,RB,off_skill,14,11,Alabama,SEC,3
+JenkMa99,Malcolm Jenkins,NO,NFC,NFC South,DB,def_backs,27,13,Ohio St.,Big Ten,16
+JohnJu02,Juwan Johnson,NO,NFC,NFC South,WR,off_skill,83,2,Penn St.,Big Ten,2
+JoneTo04,Tony Jones,NO,NFC,NFC South,RB,off_skill,21,2,Notre Dame,Independent,4
+JordCa00,Cameron Jordan,NO,NFC,NFC South,DE,def_line,94,11,California,Pac-12,16
+KamaAl00,Alvin Kamara,NO,NFC,NFC South,RB,off_skill,41,5,Tennessee,SEC,10
+KpasTa00,Tanoh Kpassagnon,NO,NFC,NFC South,DE,def_line,90,5,Villanova,FCS,5
+LattMa01,Marshon Lattimore,NO,NFC,NFC South,CB,def_backs,23,5,Ohio St.,Big Ten,16
+MaheBr01,Brett Maher,NO,NFC,NFC South,K,spec_teams,19,4,Nebraska,Big Ten,0
+McCoEr01,Erik McCoy,NO,NFC,NFC South,OL,off_line,78,3,Texas A&M,SEC,12
+MillJo02,Jordan Mills,NO,NFC,NFC South,OT,off_line,66,9,Louisiana Tech,C-USA,3
+MontTy01,Ty Montgomery,NO,NFC,NFC South,RB,off_skill,88,7,Stanford,Pac-12,3
+OnyeDa00,David Onyemata,NO,NFC,NFC South,DT,def_line,93,6,Manitoba,Canada,11
+PeatAn00,Andrus Peat,NO,NFC,NFC South,OT,off_line,75,7,Stanford,Pac-12,6
+PrenAd00,Adam Prentice,NO,NFC,NFC South,RB,off_skill,46,1,South Carolina,SEC,3
+RamcRy00,Ryan Ramczyk,NO,NFC,NFC South,OT,off_line,71,5,Wisconsin,Big Ten,10
+RingCh00,Christian Ringo,NO,NFC,NFC South,DE,def_line,70,6,Louisiana,Sun Belt,4
+RoacMa01,Malcolm Roach,NO,NFC,NFC South,DT,def_line,97,2,Texas,Big 12,2
+RobyBr00,Bradley Roby,NO,NFC,NFC South,CB,def_backs,21,8,Ohio St.,Big Ten,1
+RuizCe00,Cesar Ruiz,NO,NFC,NFC South,OL,off_line,51,2,Michigan,Big Ten,17
+SiemTr00,Trevor Siemian,NO,NFC,NFC South,QB,off_skill,15,7,Northwestern,Big Ten,4
+SmitTr03,Tre'Quan Smith,NO,NFC,NFC South,WR,off_skill,10,4,Central Florida,American,6
+StilKe00,Kenny Stills,NO,NFC,NFC South,WR,off_skill,12,9,Oklahoma,Big 12,4
+ThroCa01,Calvin Throckmorton,NO,NFC,NFC South,T,off_line,76,1,Oregon,Pac-12,14
+TrauAd00,Adam Trautman,NO,NFC,NFC South,TE,off_skill,82,2,Dayton,FCS,10
+TuttSh00,Shy Tuttle,NO,NFC,NFC South,DL,def_line,99,3,Tennessee,SEC,15
+VannNi00,Nick Vannett,NO,NFC,NFC South,TE,off_skill,81,6,Ohio St.,Big Ten,2
+WernPe00,Pete Werner,NO,NFC,NFC South,LB,def_lbs,20,1,Ohio St.,Big Ten,8
+WhitKe00,Kevin White,NO,NFC,NFC South,WR,off_skill,17,6,West Virginia,Big 12,1
+WillMa06,Marcus Williams,NO,NFC,NFC South,S,def_backs,43,5,Utah,Pac-12,16
+WillP.00,P.J. Williams,NO,NFC,NFC South,CB,def_backs,26,6,Florida St.,ACC,5
+WinsEa00,Easop Winston,NO,NFC,NFC South,WR,off_skill,18,1,Washington St.,Pac-12,1
+WinsJa00,Jameis Winston,NO,NFC,NFC South,QB,off_skill,2,7,Florida St.,ACC,7
+WolfEt00,Ethan Wolf,NO,NFC,NFC South,TE,off_skill,86,1,Tennessee,SEC,1
+YounLa00,Landon Young,NO,NFC,NFC South,T,off_line,67,1,Kentucky,SEC,1

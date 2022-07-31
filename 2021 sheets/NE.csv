@@ -1,0 +1,45 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AghoNe00,Nelson Agholor,NE,AFC,AFC East,WR,off_skill,15,7,USC,Pac-12,13
+AndrDa00,David Andrews,NE,AFC,AFC East,C,off_line,60,7,Georgia,SEC,17
+BailJa00,Jake Bailey,NE,AFC,AFC East,P,spec_teams,7,3,Stanford,Pac-12,0
+BarmCh00,Christian Barmore,NE,AFC,AFC East,DT,def_line,70,1,Alabama,SEC,2
+BentJa00,Ja'Whaun Bentley,NE,AFC,AFC East,ILB,def_lbs,8,4,Purdue,Big Ten,16
+BoldBr00,Brandon Bolden,NE,AFC,AFC East,RB,off_skill,25,10,Mississippi,SEC,1
+BourKe00,Kendrick Bourne,NE,AFC,AFC East,WR,off_skill,84,5,East. Washington,FCS,5
+BrowTr02,Trent Brown,NE,AFC,AFC East,OT,off_line,77,7,Florida,SEC,9
+BryaMy01,Myles Bryant,NE,AFC,AFC East,DB,def_backs,41,2,Washington,Pac-12,2
+CajuYo00,Yodny Cajuste,NE,AFC,AFC East,OL,off_line,72,1,West Virginia,Big 12,2
+CollJa00,Jamie Collins,NE,AFC,AFC East,OLB,def_lbs,58,9,Southern Miss,C-USA,2
+DaviCa01,Carl Davis,NE,AFC,AFC East,DT,def_line,98,7,Iowa,Big Ten,4
+DuggKy00,Kyle Dugger,NE,AFC,AFC East,S,def_backs,23,2,Lenoir-Rhyne,D2,13
+DuraYa01,Yasir Durant,NE,AFC,AFC East,T,off_line,63,2,Missouri,SEC,1
+FereJa00,James Ferentz,NE,AFC,AFC East,C,off_line,65,8,Iowa,Big Ten,2
+FolkNi20,Nick Folk,NE,AFC,AFC East,K,spec_teams,6,15,Arizona,Pac-12,0
+GodcDa00,Davon Godchaux,NE,AFC,AFC East,DT,def_line,92,5,LSU,SEC,16
+GuyxLa00,Lawrence Guy,NE,AFC,AFC East,DT,def_line,93,11,Arizona St.,Pac-12,17
+HarrDa06,Damien Harris,NE,AFC,AFC East,RB,off_skill,37,3,Alabama,SEC,15
+HarrNK00,N'Keal Harry,NE,AFC,AFC East,WR,off_skill,1,3,Arizona St.,Pac-12,4
+HenrHu00,Hunter Henry,NE,AFC,AFC East,TE,off_skill,85,6,Arkansas,SEC,10
+HerrJu00,Justin Herron,NE,AFC,AFC East,OL,off_line,75,2,Wake Forest,ACC,4
+HighDo01,Dont'a Hightower,NE,AFC,AFC East,ILB,def_lbs,54,10,Alabama,SEC,15
+JackJ.00,J.C. Jackson,NE,AFC,AFC East,DB,def_backs,27,4,Maryland,Big Ten,17
+JohnJa12,Jakob Johnson,NE,AFC,AFC East,FB,off_skill,47,3,Tennessee,SEC,6
+JoneJo03,Jonathan Jones,NE,AFC,AFC East,CB,def_backs,31,6,Auburn,SEC,1
+JoneMa05,Mac Jones,NE,AFC,AFC East,QB,off_skill,10,1,Alabama,SEC,17
+JudoMa00,Matt Judon,NE,AFC,AFC East,DE,def_line,9,6,Grand Valley St.,D2,16
+KarrTe00,Ted Karras,NE,AFC,AFC East,OG,off_line,67,6,Illinois,Big Ten,13
+LangHa00,Harvey Langi,NE,AFC,AFC East,ILB,def_lbs,48,5,BYU,Independent,1
+MasoSh01,Shaq Mason,NE,AFC,AFC East,G,off_line,69,7,Georgia Tech,ACC,15
+McCoDe99,Devin McCourty,NE,AFC,AFC East,DB,def_backs,32,12,Rutgers,Big Ten,17
+MeyeJa01,Jakobi Meyers,NE,AFC,AFC East,WR,off_skill,16,3,North Carolina St.,ACC,16
+MillJa02,Jalen Mills,NE,AFC,AFC East,CB,def_backs,2,6,LSU,SEC,16
+OnweMi00,Michael Onwenu,NE,AFC,AFC East,OL,off_line,71,2,Michigan,Big Ten,8
+PhilAd00,Adrian Phillips,NE,AFC,AFC East,DB,def_backs,21,8,Texas,Big 12,13
+RossDA03,D'Angelo Ross,NE,AFC,AFC East,DB,def_backs,39,1,New Mexico,Mountain West,1
+SmitJo01,Jonnu Smith,NE,AFC,AFC East,TE,off_skill,81,5,Florida International,C-USA,11
+StevRh00,Rhamondre Stevenson,NE,AFC,AFC East,RB,off_skill,38,1,Oklahoma,Big 12,2
+VanNKy00,Kyle Van Noy,NE,AFC,AFC East,OLB,def_lbs,53,8,BYU,Independent,8
+WilkKr00,Kristian Wilkerson,NE,AFC,AFC East,WR,off_skill,17,2,SE Missouri St.,FCS,1
+WillJo13,Joejuan Williams,NE,AFC,AFC East,CB,def_backs,33,3,Vanderbilt,SEC,1
+WiseDe00,Deatrich Wise Jr.,NE,AFC,AFC East,DE,def_line,91,5,Arkansas,SEC,9
+WynnIs00,Isaiah Wynn,NE,AFC,AFC East,OT,off_line,76,4,Georgia,SEC,15

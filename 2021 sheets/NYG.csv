@@ -1,0 +1,53 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+BarkSa00,Saquon Barkley,NYG,NFC,NFC East,RB,off_skill,26,4,Penn St.,Big Ten,13
+BoarC.00,C.J. Board,NYG,NFC,NFC East,WR,off_skill,18,4,Chattanooga,FCS,1
+BookDe00,Devontae Booker,NYG,NFC,NFC East,RB,off_skill,28,6,Utah,Pac-12,4
+BradJa00,James Bradberry,NYG,NFC,NFC East,CB,def_backs,24,6,Arkansas St.,Sun Belt,16
+BredBe00,Ben Bredeson,NYG,NFC,NFC East,OL,off_line,68,2,Michigan,Big Ten,1
+CartLo01,Lorenzo Carter,NYG,NFC,NFC East,DE,def_line,59,4,Georgia,SEC,14
+CrowTa00,Tae Crowder,NYG,NFC,NFC East,LB,def_lbs,48,2,Georgia,SEC,17
+DixoRi00,Riley Dixon,NYG,NFC,NFC East,P,spec_teams,9,6,Syracuse,ACC,0
+EngrEv00,Evan Engram,NYG,NFC,NFC East,TE,off_skill,88,5,Mississippi,SEC,12
+FromJa00,Jake Fromm,NYG,NFC,NFC East,QB,off_skill,17,1,Georgia,SEC,2
+GanoGr44,Graham Gano,NYG,NFC,NFC East,K,spec_teams,5,13,Florida St.,ACC,0
+GateNi00,Nick Gates,NYG,NFC,NFC East,OT,off_line,65,4,Nebraska,Big Ten,2
+GlenMi00,Mike Glennon,NYG,NFC,NFC East,QB,off_skill,2,9,North Carolina St.,ACC,4
+GollKe00,Kenny Golladay,NYG,NFC,NFC East,WR,off_skill,19,5,Northern Illinois,MAC,14
+HamiWo00,Woodrow Hamilton,NYG,NFC,NFC East,DL,def_line,90,6,Mississippi,SEC,1
+HernWi00,Will Hernandez,NYG,NFC,NFC East,OG,off_line,71,4,Texas-El Paso,C-USA,17
+HolmDa01,Darnay Holmes,NYG,NFC,NFC East,CB,def_backs,30,2,UCLA,Pac-12,4
+JackAd00,Adoree' Jackson,NYG,NFC,NFC East,CB,def_backs,22,5,USC,Pac-12,12
+JohnAu01,Austin Johnson,NYG,NFC,NFC East,DT,def_line,98,6,Penn St.,Big Ten,17
+JohnCo01,Collin Johnson,NYG,NFC,NFC East,WR,off_skill,15,2,Texas,Big 12,1
+JoneDa05,Daniel Jones,NYG,NFC,NFC East,QB,off_skill,8,3,Duke,ACC,11
+LawrDe03,Dexter Lawrence,NYG,NFC,NFC East,DL,def_line,97,3,Clemson,ACC,10
+LemiSh00,Shane Lemieux,NYG,NFC,NFC East,OL,off_line,66,2,Oregon,Pac-12,1
+LoveJu00,Julian Love,NYG,NFC,NFC East,CB,def_backs,20,3,Notre Dame,Independent,5
+MartWe00,Wes Martin,NYG,NFC,NFC East,G,off_line,63,3,Indiana,Big Ten,1
+MartBl01,Blake Martinez,NYG,NFC,NFC East,ILB,def_lbs,54,6,Stanford,Pac-12,3
+McKiBe00,Benardrick McKinney,NYG,NFC,NFC East,ILB,def_lbs,49,7,Mississippi St.,SEC,3
+McKiXa00,Xavier McKinney,NYG,NFC,NFC East,S,def_backs,29,2,Alabama,SEC,16
+MoaxDa00,David Moa,NYG,NFC,NFC East,DT,def_line,96,1,Boise St.,Mountain West,1
+MyarCh00,Chris Myarick,NYG,NFC,NFC East,TE,off_skill,41,2,Temple,American,3
+OjulAz00,Azeez Ojulari,NYG,NFC,NFC East,LB,def_lbs,51,1,Georgia,SEC,13
+PearMa00,Matt Peart,NYG,NFC,NFC East,OL,off_line,74,2,Connecticut,Independent,5
+PennEl00,Elijhaa Penny,NYG,NFC,NFC East,RB,off_skill,39,5,Idaho,FCS,3
+PeppJa00,Jabrill Peppers,NYG,NFC,NFC East,SS,def_backs,21,5,Michigan,Big Ten,5
+PricBi01,Billy Price,NYG,NFC,NFC East,C,off_line,69,4,Ohio St.,Big Ten,15
+RaglRe00,Reggie Ragland,NYG,NFC,NFC East,ILB,def_lbs,55,5,Alabama,SEC,9
+RobiAa00,Aaron Robinson,NYG,NFC,NFC East,DB,def_backs,33,1,Central Florida,American,2
+RochQu00,Quincy Roche,NYG,NFC,NFC East,LB,def_lbs,93,1,Miami (FL),ACC,3
+RossJo00,John Ross,NYG,NFC,NFC East,WR,off_skill,12,5,Washington,Pac-12,1
+RudoKy00,Kyle Rudolph,NYG,NFC,NFC East,TE,off_skill,80,11,Notre Dame,Independent,13
+RyanLo00,Logan Ryan,NYG,NFC,NFC East,CB,def_backs,23,9,Rutgers,Big Ten,15
+ShepSt00,Sterling Shepard,NYG,NFC,NFC East,WR,off_skill,3,6,Oklahoma,Big 12,6
+SillDa01,David Sills,NYG,NFC,NFC East,WR,off_skill,84,1,West Virginia,Big 12,1
+SkurMa01,Matt Skura,NYG,NFC,NFC East,C,off_line,67,5,Duke,ACC,14
+SlayDa01,Darius Slayton,NYG,NFC,NFC East,WR,off_skill,86,3,Auburn,SEC,5
+SmitJa05,Jaylon Smith,NYG,NFC,NFC East,OLB,def_lbs,45,5,Notre Dame,Independent,2
+SmitKa00,Kaden Smith,NYG,NFC,NFC East,TE,off_skill,82,3,Stanford,Pac-12,4
+SoldNa00,Nate Solder,NYG,NFC,NFC East,OL,off_line,76,11,Colorado,Pac-12,16
+ThomAn02,Andrew Thomas,NYG,NFC,NFC East,OL,off_line,78,2,Georgia,SEC,13
+ToneKa00,Kadarius Toney,NYG,NFC,NFC East,WR,off_skill,89,1,Florida,SEC,4
+WillJa09,Jarren Williams,NYG,NFC,NFC East,DB,def_backs,34,2,Albany (NY),FCS,2
+WillLe02,Leonard Williams,NYG,NFC,NFC East,DT,def_line,99,7,USC,Pac-12,17

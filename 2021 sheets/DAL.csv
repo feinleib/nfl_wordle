@@ -1,0 +1,43 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AngeBr00,Bryan Anger,DAL,NFC,NFC East,P,spec_teams,5,10,California,Pac-12,0
+ArmsDo00,Dorance Armstrong Jr.,DAL,NFC,NFC East,DE,def_line,92,4,Kansas,Big 12,5
+BashTa00,Tarell Basham,DAL,NFC,NFC East,DE,def_line,93,5,Ohio,MAC,6
+BiadTy00,Tyler Biadasz,DAL,NFC,NFC East,OL,off_line,63,2,Wisconsin,Big Ten,17
+BohaQu00,Quinton Bohanna,DAL,NFC,NFC East,DT,def_line,98,1,Kentucky,SEC,1
+BrowAn02,Anthony Brown,DAL,NFC,NFC East,CB,def_backs,30,6,Purdue,Big Ten,16
+BrowNo00,Noah Brown,DAL,NFC,NFC East,WR,off_skill,85,5,Ohio St.,Big Ten,1
+CollLa01,La'el Collins,DAL,NFC,NFC East,OT,off_line,71,7,LSU,SEC,10
+CoopAm00,Amari Cooper,DAL,NFC,NFC East,WR,off_skill,19,7,Alabama,SEC,14
+DiggTr00,Trevon Diggs,DAL,NFC,NFC East,CB,def_backs,27,2,Alabama,SEC,16
+ElliEz00,Ezekiel Elliott,DAL,NFC,NFC East,RB,off_skill,21,6,Ohio St.,Big Ten,17
+GallNe00,Neville Gallimore,DAL,NFC,NFC East,DL,def_line,96,2,Oklahoma,Big 12,4
+GallMi00,Michael Gallup,DAL,NFC,NFC East,WR,off_skill,13,4,Colorado St.,Mountain West,8
+GregRa00,Randy Gregory,DAL,NFC,NFC East,DE,def_line,94,7,Nebraska,Big Ten,11
+HookMa00,Malik Hooker,DAL,NFC,NFC East,FS,def_backs,28,5,Ohio St.,Big Ten,3
+JarwBl00,Blake Jarwin,DAL,NFC,NFC East,TE,off_skill,89,5,Oklahoma St.,Big 12,5
+JoseKe02,Kelvin Joseph,DAL,NFC,NFC East,DB,def_backs,24,1,Kentucky,SEC,2
+KazeDa00,Damontae Kazee,DAL,NFC,NFC East,CB,def_backs,18,5,San Diego St.,Mountain West,15
+KearJa00,Jayron Kearse,DAL,NFC,NFC East,SS,def_backs,27,6,Clemson,ACC,15
+LambCe00,CeeDee Lamb,DAL,NFC,NFC East,WR,off_skill,88,2,Oklahoma,Big 12,13
+LawrDe00,DeMarcus Lawrence,DAL,NFC,NFC East,DE,def_line,90,8,Boise St.,Mountain West,7
+LewiJo01,Jourdan Lewis,DAL,NFC,NFC East,CB,def_backs,26,5,Michigan,Big Ten,13
+MartZa00,Zack Martin,DAL,NFC,NFC East,G,off_line,70,8,Notre Dame,Independent,16
+McGoCo01,Connor McGovern,DAL,NFC,NFC East,OL,off_line,66,2,Penn St.,Big Ten,6
+McKeSe01,Sean McKeon,DAL,NFC,NFC East,TE,off_skill,84,2,Michigan,Big Ten,2
+NealKe01,Keanu Neal,DAL,NFC,NFC East,FS,def_backs,42,6,Florida,SEC,5
+OdigOs00,Osa Odighizuwa,DAL,NFC,NFC East,DT,def_line,75,1,UCLA,Pac-12,12
+ParsMi00,Micah Parsons,DAL,NFC,NFC East,LB,def_lbs,11,1,Penn St.,Big Ten,16
+PresDa01,Dak Prescott,DAL,NFC,NFC East,QB,off_skill,4,6,Mississippi St.,SEC,16
+RushCo00,Cooper Rush,DAL,NFC,NFC East,QB,off_skill,10,5,Central Michigan,MAC,1
+SchuDa00,Dalton Schultz,DAL,NFC,NFC East,TE,off_skill,86,4,Stanford,Pac-12,15
+SmitTy00,Tyron Smith,DAL,NFC,NFC East,OT,off_line,77,11,USC,Pac-12,11
+SpriJe00,Jeremy Sprinkle,DAL,NFC,NFC East,TE,off_skill,87,5,Arkansas,SEC,4
+SteeTe01,Terence Steele,DAL,NFC,NFC East,T,off_line,78,2,Texas Tech,Big 12,13
+UrbaBr00,Brent Urban,DAL,NFC,NFC East,DE,def_line,95,8,Virginia,ACC,4
+VandLe00,Leighton Vander Esch,DAL,NFC,NFC East,OLB,def_lbs,55,4,Boise St.,Mountain West,16
+WatkCa00,Carlos Watkins,DAL,NFC,NFC East,DT,def_line,91,5,Clemson,ACC,14
+WillCo00,Connor Williams,DAL,NFC,NFC East,OT,off_line,52,4,Texas,Big 12,14
+WilsCe01,Cedrick Wilson Jr.,DAL,NFC,NFC East,WR,off_skill,1,4,Boise St.,Mountain West,4
+WilsDo01,Donovan Wilson,DAL,NFC,NFC East,S,def_backs,6,3,Texas A&M,SEC,3
+WrigNa00,Nahshon Wright,DAL,NFC,NFC East,CB,def_backs,25,1,Oregon St.,Pac-12,1
+ZuerGr00,Greg Zuerlein,DAL,NFC,NFC East,K,spec_teams,2,10,Missouri Western St.,D2,0

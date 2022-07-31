@@ -1,0 +1,54 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AnkoEl00,Eli Ankou,TEN,AFC,AFC South,DT,def_line,95,5,UCLA,Pac-12,1
+AutrDe00,Denico Autry,TEN,AFC,AFC South,DE,def_line,96,8,Mississippi St.,SEC,11
+BlasKh00,Khari Blasingame,TEN,AFC,AFC South,RB,off_skill,41,3,Vanderbilt,SEC,3
+BledAm01,Amani Bledsoe,TEN,AFC,AFC South,DE,def_line,94,2,Oklahoma,Big 12,2
+BrewAa01,Aaron Brewer,TEN,AFC,AFC South,C,off_line,62,2,Texas St.,Sun Belt,5
+BrowAJ00,A.J. Brown,TEN,AFC,AFC South,WR,off_skill,11,3,Mississippi,SEC,13
+BrowJa06,Jayon Brown,TEN,AFC,AFC South,ILB,def_lbs,55,5,UCLA,Pac-12,6
+BullRa00,Randy Bullock,TEN,AFC,AFC South,K,spec_teams,14,10,Texas A&M,SEC,0
+ByarKe01,Kevin Byard,TEN,AFC,AFC South,S,def_backs,31,6,Middle Tenn. St.,C-USA,17
+CartTo01,Tory Carter,TEN,AFC,AFC South,FB,off_skill,44,1,LSU,SEC,2
+CruiDa00,Dane Cruikshank,TEN,AFC,AFC South,CB,def_backs,29,4,Arizona,Pac-12,4
+CunnZa00,Zach Cunningham,TEN,AFC,AFC South,OLB,def_lbs,33,5,Vanderbilt,SEC,4
+DaviNa01,Nate Davis,TEN,AFC,AFC South,OL,off_line,64,3,Charlotte,C-USA,14
+DuprAl00,Bud Dupree,TEN,AFC,AFC South,DE,def_line,48,7,Kentucky,SEC,6
+EvanRa01,Rashaan Evans,TEN,AFC,AFC South,ILB,def_lbs,54,4,Alabama,SEC,11
+FarlCa00,Caleb Farley,TEN,AFC,AFC South,CB,def_backs,3,1,Virginia Tech,ACC,1
+FirkAn00,Anthony Firkser,TEN,AFC,AFC South,TE,off_skill,86,4,Harvard,FCS,1
+ForeDO00,D'Onta Foreman,TEN,AFC,AFC South,RB,off_skill,45,5,Texas,Big 12,3
+FultKr00,Kristian Fulton,TEN,AFC,AFC South,CB,def_backs,26,2,LSU,SEC,13
+HartBo00,Bobby Hart,TEN,AFC,AFC South,OG,off_line,68,7,Florida St.,ACC,1
+HenrDe00,Derrick Henry,TEN,AFC,AFC South,RB,off_skill,22,6,Alabama,SEC,8
+HillDo00,Dontrell Hilliard,TEN,AFC,AFC South,RB,off_skill,40,4,Tulane,American,5
+HollCo00,Cody Hollister,TEN,AFC,AFC South,WR,off_skill,16,3,Arkansas,SEC,1
+HookAm00,Amani Hooker,TEN,AFC,AFC South,S,def_backs,37,3,Iowa,Big Ten,12
+JackCh01,Chris Jackson,TEN,AFC,AFC South,S,def_backs,35,2,Marshall,C-USA,3
+JenkJa03,Jackrabbit Jenkins,TEN,AFC,AFC South,CB,def_backs,20,10,Florida,SEC,13
+JohnMa07,Marcus Johnson,TEN,AFC,AFC South,WR,off_skill,88,5,Texas,Big 12,3
+JoneBe01,Ben Jones,TEN,AFC,AFC South,C,off_line,60,10,Georgia,SEC,17
+JoneJu02,Julio Jones,TEN,AFC,AFC South,WR,off_skill,2,11,Alabama,SEC,10
+JoneNa01,Naquan Jones,TEN,AFC,AFC South,DT,def_line,90,1,Michigan St.,Big Ten,5
+KernBr20,Brett Kern,TEN,AFC,AFC South,P,spec_teams,6,14,Toledo,MAC,0
+LammKe00,Kendall Lamm,TEN,AFC,AFC South,T,off_line,71,7,Appalachian St.,Sun Belt,1
+LandHa00,Harold Landry,TEN,AFC,AFC South,OLB,def_lbs,58,4,Boston Col.,ACC,17
+LewaTa00,Taylor Lewan,TEN,AFC,AFC South,OT,off_line,77,8,Michigan,Big Ten,13
+LongDa04,David Long,TEN,AFC,AFC South,LB,def_lbs,51,3,West Virginia,Big 12,9
+MabiGr00,Greg Mabin,TEN,AFC,AFC South,CB,def_backs,30,5,Iowa,Big Ten,2
+McDoBr01,Bradley McDougald,TEN,AFC,AFC South,FS,def_backs,30,9,Kansas,Big 12,1
+MoldEl00,Elijah Molden,TEN,AFC,AFC South,CB,def_backs,24,1,Washington,Pac-12,7
+MurcLa00,Larrell Murchison,TEN,AFC,AFC South,DL,def_line,91,2,North Carolina St.,ACC,5
+PekoKy00,Kyle Peko,TEN,AFC,AFC South,DT,def_line,94,6,Oregon St.,Pac-12,3
+PruiMy00,MyCole Pruitt,TEN,AFC,AFC South,TE,off_skill,85,7,Southern Illinois,FCS,9
+QuesDa00,David Quessenberry,TEN,AFC,AFC South,OT,off_line,72,9,San Jose St.,Mountain West,17
+RaduDi00,Dillon Radunz,TEN,AFC,AFC South,OL,off_line,75,1,North Dakota St.,FCS,1
+RiceMo00,Monty Rice,TEN,AFC,AFC South,LB,def_lbs,56,1,Georgia,SEC,4
+RogeCh02,Chester Rogers,TEN,AFC,AFC South,WR,off_skill,80,6,Grambling St.,FCS,2
+SaffRo20,Rodger Saffold,TEN,AFC,AFC South,T,off_line,76,12,Indiana,Big Ten,15
+SambTy00,Ty Sambrailo,TEN,AFC,AFC South,OT,off_line,70,7,Colorado St.,Mountain West,1
+SimmJe01,Jeffery Simmons,TEN,AFC,AFC South,DL,def_line,98,3,Mississippi St.,SEC,17
+SkriBu00,Buster Skrine,TEN,AFC,AFC South,DB,def_backs,38,11,Chattanooga,FCS,3
+SwaiGe00,Geoff Swaim,TEN,AFC,AFC South,TE,off_skill,87,7,Texas,Big 12,16
+TannRy00,Ryan Tannehill,TEN,AFC,AFC South,QB,off_skill,17,10,Texas A&M,SEC,17
+TartTe00,Teair Tart,TEN,AFC,AFC South,DT,def_line,93,2,Florida International,C-USA,10
+WestNi00,Nick Westbrook-Ikhine,TEN,AFC,AFC South,WR,off_skill,15,2,Indiana,Big Ten,7

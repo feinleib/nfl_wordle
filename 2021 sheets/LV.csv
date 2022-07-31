@@ -1,0 +1,45 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AbraJo01,Johnathan Abram,LV,AFC,AFC West,S,def_backs,24,3,Mississippi St.,SEC,14
+BarbPe01,Peyton Barber,LV,AFC,AFC West,RB,off_skill,31,6,Auburn,SEC,1
+CarlDa00,Daniel Carlson,LV,AFC,AFC West,K,spec_teams,2,4,Auburn,SEC,0
+CarrDe02,Derek Carr,LV,AFC,AFC West,QB,off_skill,4,8,Fresno St.,Mountain West,17
+CarrDe00,Derek Carrier,LV,AFC,AFC West,TE,off_skill,85,10,Beloit,D3,1
+ColeAJ01,AJ Cole III,LV,AFC,AFC West,P,spec_teams,6,3,North Carolina St.,ACC,0
+CrosMa00,Maxx Crosby,LV,AFC,AFC West,EDGE,def_line,98,3,East. Michigan,MAC,17
+DeabDi00,Divine Deablo,LV,AFC,AFC West,LB,def_lbs,5,1,Virginia Tech,ACC,5
+DrakKe00,Kenyan Drake,LV,AFC,AFC West,RB,off_skill,23,6,Alabama,SEC,2
+EdwaBr01,Bryan Edwards,LV,AFC,AFC West,WR,off_skill,89,2,South Carolina,SEC,12
+ElueJe00,Jermaine Eluemunor,LV,AFC,AFC West,OG,off_line,72,5,Texas A&M,SEC,3
+FacyBr00,Brandon Facyson,LV,AFC,AFC West,CB,def_backs,35,4,Virginia Tech,ACC,9
+GoodDe01,Denzelle Good,LV,AFC,AFC West,OT,off_line,71,7,Mars Hill,D2,1
+HankJo00,Johnathan Hankins,LV,AFC,AFC West,DT,def_line,90,9,Ohio St.,Big Ten,14
+HaywCa00,Casey Hayward,LV,AFC,AFC West,DB,def_backs,29,10,Vanderbilt,SEC,17
+HelmDa01,Daniel Helm,LV,AFC,AFC West,TE,off_skill,86,2,Duke,ACC,1
+HobbNa00,Nate Hobbs,LV,AFC,AFC West,CB,def_backs,39,1,Illinois,Big Ten,9
+IngoAl01,Alec Ingold,LV,AFC,AFC West,FB,off_skill,45,3,Wisconsin,Big Ten,3
+JackDe00,DeSean Jackson,LV,AFC,AFC West,WR,off_skill,1,14,California,Pac-12,4
+JacoJo01,Josh Jacobs,LV,AFC,AFC West,RB,off_skill,28,3,Alabama,SEC,14
+JameAn01,Andre James,LV,AFC,AFC West,OL,off_line,68,3,UCLA,Pac-12,17
+JeffQu00,Quinton Jefferson,LV,AFC,AFC West,DT,def_line,77,6,Maryland,Big Ten,17
+JoneZa00,Zay Jones,LV,AFC,AFC West,WR,off_skill,7,5,East Carolina,American,9
+LeatAl00,Alex Leatherwood,LV,AFC,AFC West,T,off_line,70,1,Alabama,SEC,17
+LeavDa00,Dallin Leavitt,LV,AFC,AFC West,S,def_backs,32,4,Utah St.,Mountain West,1
+LittCo01,Cory Littleton,LV,AFC,AFC West,LB,def_lbs,42,6,Washington,Pac-12,13
+MillKo00,Kolton Miller,LV,AFC,AFC West,OT,off_line,74,4,UCLA,Pac-12,17
+MoehTr00,Trevon Moehrig,LV,AFC,AFC West,S,def_backs,25,1,TCU,Big 12,17
+MoreFo00,Foster Moreau,LV,AFC,AFC West,TE,off_skill,87,3,LSU,SEC,11
+MullTr00,Trayvon Mullen,LV,AFC,AFC West,CB,def_backs,27,3,Clemson,ACC,5
+NgakYa00,Yannick Ngakoue,LV,AFC,AFC West,DE,def_line,91,6,Maryland,Big Ten,17
+NixoKe00,Keisean Nixon,LV,AFC,AFC West,CB,def_backs,22,3,South Carolina,SEC,1
+ParkBr01,Brandon Parker,LV,AFC,AFC West,OT,off_line,75,4,North Carolina A&T,FCS,13
+PerrDe00,Denzel Perryman,LV,AFC,AFC West,ILB,def_lbs,52,7,Miami (FL),ACC,15
+PhilDa01,Darius Philon,LV,AFC,AFC West,DT,def_line,96,7,Arkansas,SEC,2
+RenfHu00,Hunter Renfrow,LV,AFC,AFC West,WR,off_skill,13,3,Clemson,ACC,9
+RobeAm00,Amik Robertson,LV,AFC,AFC West,CB,def_backs,21,2,Louisiana Tech,C-USA,2
+RuggHe00,Henry Ruggs III,LV,AFC,AFC West,WR,off_skill,11,2,Alabama,SEC,7
+SimpJo00,John Simpson,LV,AFC,AFC West,OL,off_line,76,2,Clemson,ACC,17
+SquaDa00,Damion Square,LV,AFC,AFC West,DE,def_line,97,9,Alabama,SEC,1
+TeamRo00,Roderic Teamer,LV,AFC,AFC West,S,def_backs,33,3,Tulane,American,2
+TrufDe00,Desmond Trufant,LV,AFC,AFC West,CB,def_backs,10,9,Washington,Pac-12,1
+WallDa01,Darren Waller,LV,AFC,AFC West,TE,off_skill,83,7,Georgia Tech,ACC,11
+WrigK.00,K.J. Wright,LV,AFC,AFC West,MLB,def_lbs,34,11,Mississippi St.,SEC,8

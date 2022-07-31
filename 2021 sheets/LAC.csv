@@ -1,0 +1,49 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AbouOd00,Oday Aboushi,LAC,AFC,AFC West,OT,off_line,76,9,Virginia,ACC,5
+AddeNa00,Nasir Adderley,LAC,AFC,AFC West,S,def_backs,24,3,Delaware,FCS,15
+AlleKe00,Keenan Allen,LAC,AFC,AFC West,WR,off_skill,13,9,California,Pac-12,16
+AndeSt01,Stephen Anderson,LAC,AFC,AFC West,TE,off_skill,82,6,California,Pac-12,4
+BosaJo00,Joey Bosa,LAC,AFC,AFC West,DE,def_line,97,6,Ohio St.,Big Ten,16
+BulaBr20,Bryan Bulaga,LAC,AFC,AFC West,T,off_line,75,12,Iowa,Big Ten,1
+CampTe00,Tevaughn Campbell,LAC,AFC,AFC West,DB,def_backs,20,2,Regina,Canada,7
+CookJa02,Jared Cook,LAC,AFC,AFC West,TE,off_skill,87,13,South Carolina,SEC,10
+CoviCh00,Christian Covington,LAC,AFC,AFC West,DT,def_line,95,7,Rice,C-USA,3
+DaviMi03,Michael Davis,LAC,AFC,AFC West,CB,def_backs,43,5,BYU,Independent,14
+EkelAu00,Austin Ekeler,LAC,AFC,AFC West,RB,off_skill,30,5,Western St. (CO),D2,16
+FackKy00,Kyler Fackrell,LAC,AFC,AFC West,OLB,def_lbs,52,6,Utah St.,Mountain West,1
+FehoBr01,Breiden Fehoko,LAC,AFC,AFC West,NT,def_line,96,2,LSU,SEC,1
+FeilMa00,Matt Feiler,LAC,AFC,AFC West,T,off_line,71,8,Bloomsburg,D2,16
+GaziJo01,Joe Gaziano,LAC,AFC,AFC West,DE,def_line,92,2,Northwestern,Big Ten,1
+GilmAl00,Alohi Gilman,LAC,AFC,AFC West,S,def_backs,32,2,Notre Dame,Independent,3
+GuytJa01,Jalen Guyton,LAC,AFC,AFC West,WR,off_skill,15,3,North Texas,C-USA,2
+HarrCh01,Chris Harris Jr.,LAC,AFC,AFC West,CB,def_backs,25,11,Kansas,Big 12,11
+HarrDa05,Davontae Harris,LAC,AFC,AFC West,CB,def_backs,28,4,Illinois St.,FCS,1
+HerbJu00,Justin Herbert,LAC,AFC,AFC West,QB,off_skill,10,2,Oregon,Pac-12,17
+HopkDu00,Dustin Hopkins,LAC,AFC,AFC West,K,spec_teams,6,9,Florida St.,ACC,0
+JackJu01,Justin Jackson,LAC,AFC,AFC West,RB,off_skill,22,4,Northwestern,Big Ten,2
+JameDe00,Derwin James,LAC,AFC,AFC West,SS,def_backs,3,4,Florida St.,ACC,15
+JoneJu03,Justin Jones,LAC,AFC,AFC West,DT,def_line,93,4,North Carolina St.,ACC,11
+JoseLi99,Linval Joseph,LAC,AFC,AFC West,DT,def_line,98,12,East Carolina,American,12
+KeleSe00,Senio Kelemete,LAC,AFC,AFC West,T,off_line,68,10,Washington,Pac-12,2
+LinsCo00,Corey Linsley,LAC,AFC,AFC West,C,off_line,63,8,Ohio St.,Big Ten,16
+LongTy00,Ty Long,LAC,AFC,AFC West,P,spec_teams,1,3,Ala-Birmingham,C-USA,0
+MarsTr00,Trey Marshall,LAC,AFC,AFC West,S,def_backs,36,4,Florida St.,ACC,1
+McKiTr00,Tre' McKitty,LAC,AFC,AFC West,TE,off_skill,88,1,Georgia,SEC,4
+MoorJa02,Jason Moore,LAC,AFC,AFC West,WR,off_skill,11,3,Findlay,D2,1
+MurrKe00,Kenneth Murray,LAC,AFC,AFC West,LB,def_lbs,9,2,Oklahoma,Big 12,6
+NabeGa00,Gabe Nabers,LAC,AFC,AFC West,RB,off_skill,40,2,Florida St.,ACC,1
+NortSt00,Storm Norton,LAC,AFC,AFC West,OT,off_line,74,4,Toledo,MAC,15
+NwosUc00,Uchenna Nwosu,LAC,AFC,AFC West,OLB,def_lbs,42,4,USC,Pac-12,15
+OgboAm00,Amen Ogbongbemiga,LAC,AFC,AFC West,LB,def_lbs,57,1,Oklahoma St.,Big 12,2
+PalmJo00,Josh Palmer,LAC,AFC,AFC West,WR,off_skill,5,1,Tennessee,SEC,5
+ParhDo00,Donald Parham,LAC,AFC,AFC West,TE,off_skill,89,2,Stetson,FCS,9
+PipkTr00,Trey Pipkins,LAC,AFC,AFC West,OT,off_line,79,3,Sioux Falls,D2,2
+QuesSc00,Scott Quessenberry,LAC,AFC,AFC West,C,off_line,61,4,UCLA,Pac-12,1
+SamuAs00,Asante Samuel Jr.,LAC,AFC,AFC West,CB,def_backs,26,1,Florida St.,ACC,12
+SchoMi00,Michael Schofield,LAC,AFC,AFC West,OT,off_line,72,8,Michigan,Big Ten,12
+SlatRa00,Rashawn Slater,LAC,AFC,AFC West,T,off_line,70,1,Northwestern,Big Ten,16
+SmitRy00,Ryan Smith,LAC,AFC,AFC West,CB,def_backs,23,6,North Carolina Central,FCS,1
+TillJe00,Jerry Tillery,LAC,AFC,AFC West,DL,def_line,99,3,Notre Dame,Independent,15
+TranDr00,Drue Tranquill,LAC,AFC,AFC West,LB,def_lbs,49,3,Notre Dame,Independent,7
+WhitKy00,Kyzir White,LAC,AFC,AFC West,S,def_backs,44,4,West Virginia,Big 12,17
+WillMi07,Mike Williams,LAC,AFC,AFC West,WR,off_skill,81,5,Clemson,ACC,14

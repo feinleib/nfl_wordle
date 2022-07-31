@@ -1,0 +1,42 @@
+player_id,player_name,team,conf,div,Pos,pos_group,No.,Yrs,College,ncaa_conf,GS
+AlexMa01,Mackensie Alexander,MIN,NFC,NFC North,CB,def_backs,24,6,Clemson,ACC,5
+BarrAn00,Anthony Barr,MIN,NFC,NFC North,OLB,def_lbs,55,8,UCLA,Pac-12,11
+BerrJo00,Jordan Berry,MIN,NFC,NFC North,P,spec_teams,3,7,East. Kentucky,FCS,0
+BoydKr00,Kris Boyd,MIN,NFC,NFC North,CB,def_backs,29,3,Texas,Big 12,1
+BradGa00,Garrett Bradbury,MIN,NFC,NFC North,OL,off_line,56,3,North Carolina St.,ACC,13
+BreeBa00,Bashaud Breeland,MIN,NFC,NFC North,CB,def_backs,21,8,Clemson,ACC,13
+BynuCa00,Camryn Bynum,MIN,NFC,NFC North,S,def_backs,43,1,California,Pac-12,3
+ClevEz00,Ezra Cleveland,MIN,NFC,NFC North,OL,off_line,72,2,Boise St.,Mountain West,17
+ColeMa02,Mason Cole,MIN,NFC,NFC North,C,off_line,52,4,Michigan,Big Ten,7
+ConkTy00,Tyler Conklin,MIN,NFC,NFC North,TE,off_skill,83,4,Central Michigan,MAC,15
+CookDa01,Dalvin Cook,MIN,NFC,NFC North,RB,off_skill,33,5,Florida St.,ACC,13
+CousKi00,Kirk Cousins,MIN,NFC,NFC North,QB,off_skill,8,10,Michigan St.,Big Ten,16
+DantCa00,Cameron Dantzler,MIN,NFC,NFC North,CB,def_backs,27,2,Mississippi St.,SEC,7
+DarrCh00,Christian Darrisaw,MIN,NFC,NFC North,OL,off_line,71,1,Virginia Tech,ACC,10
+DyexTr00,Troy Dye,MIN,NFC,NFC North,LB,def_lbs,45,2,Oregon,Pac-12,1
+GrifEv99,Everson Griffen,MIN,NFC,NFC North,DE,def_line,97,12,USC,Pac-12,6
+HamxC.00,C.J. Ham,MIN,NFC,NFC North,RB,off_skill,30,5,Augustana (SD),D2,8
+HernCh00,Chris Herndon,MIN,NFC,NFC North,TE,off_skill,89,4,Miami (FL),ACC,5
+HillRa01,Rashod Hill,MIN,NFC,NFC North,T,off_line,69,6,Southern Miss,C-USA,5
+HuntDa01,Danielle Hunter,MIN,NFC,NFC North,DE,def_line,99,7,LSU,SEC,7
+JeffJu00,Justin Jefferson,MIN,NFC,NFC North,WR,off_skill,18,2,LSU,SEC,17
+JoseGr00,Greg Joseph,MIN,NFC,NFC North,K,spec_teams,1,4,Florida Atlantic,C-USA,0
+KendEr00,Eric Kendricks,MIN,NFC,NFC North,ILB,def_lbs,54,7,UCLA,Pac-12,15
+LyncBl00,Blake Lynch,MIN,NFC,NFC North,LB,def_lbs,48,2,Baylor,Big 12,6
+LyncJa00,James Lynch,MIN,NFC,NFC North,DL,def_line,92,2,Baylor,Big 12,1
+MannSe00,Sean Mannion,MIN,NFC,NFC North,QB,off_skill,14,7,Oregon St.,Pac-12,1
+MattAl01,Alexander Mattison,MIN,NFC,NFC North,RB,off_skill,25,3,Boise St.,Mountain West,4
+ONeiBr00,Brian O'Neill,MIN,NFC,NFC North,OT,off_line,75,4,Pittsburgh,ACC,17
+OsboKJ00,K.J. Osborn,MIN,NFC,NFC North,WR,off_skill,17,2,Miami (FL),ACC,9
+PetePa00,Patrick Peterson,MIN,NFC,NFC North,CB,def_backs,7,11,LSU,SEC,13
+PierMi00,Michael Pierce,MIN,NFC,NFC North,DT,def_line,58,6,Samford,FCS,8
+RichSh00,Sheldon Richardson,MIN,NFC,NFC North,DT,def_line,90,9,Missouri,SEC,7
+SmitHa00,Harrison Smith,MIN,NFC,NFC North,FS,def_backs,22,10,Notre Dame,Independent,15
+SmitIh00,Ihmir Smith-Marsette,MIN,NFC,NFC North,WR,off_skill,15,1,Iowa,Big Ten,1
+ThieAd00,Adam Thielen,MIN,NFC,NFC North,WR,off_skill,19,9,Minnesota St.,D2,13
+TomlDa00,Dalvin Tomlinson,MIN,NFC,NFC North,DT,def_line,94,5,Alabama,SEC,16
+UdohOl01,Oli Udoh,MIN,NFC,NFC North,T,off_line,74,3,Elon,FCS,16
+VigiNi00,Nick Vigil,MIN,NFC,NFC North,ILB,def_lbs,59,6,Utah St.,Mountain West,12
+WattAr01,Armon Watts,MIN,NFC,NFC North,DL,def_line,96,3,Arkansas,SEC,9
+WonnDJ00,D.J. Wonnum,MIN,NFC,NFC North,DL,def_line,98,2,South Carolina,SEC,14
+WoodXa00,Xavier Woods,MIN,NFC,NFC North,SS,def_backs,23,5,Louisiana Tech,C-USA,17
