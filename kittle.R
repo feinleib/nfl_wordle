@@ -191,6 +191,7 @@ create_pos_groups <- function() {
   rm(off_skill, off_line, def_line, def_lbs, def_backs, spec_teams, envir = globalenv())
   return()
 }
+create_pos_groups()
 get_pos_group <- function(Pos) {
   pos_group = case_when(Pos %in% pos_groups$off_skill ~ "off_skill",
                         Pos %in% pos_groups$off_line ~ "off_line",
