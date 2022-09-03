@@ -41,8 +41,7 @@ import_data <- function() {
   NYG <<- read_csv("2021 sheets/NYG.csv")
   NYJ <<- read_csv("2021 sheets/NYJ.csv")
   CAR <<- read_csv("2021 sheets/CAR.csv")
-  answers <<- read_csv("answers.csv")
-  colleges <<- read_csv("colleges.csv") %>% select(-comments)
+  answers <<- read_csv("2021 sheets/answers.csv")
   
   # 1538 players
   all_players <<- bind_rows(ARI, ATL, BAL, BUF, CAR, CHI, CIN, CLE, 
